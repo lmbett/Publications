@@ -1,0 +1,2665 @@
+@article{bettencourt2006power,
+  title={The power of a good idea: Quantitative modeling of the spread of ideas from epidemiological models},
+  author={Bettencourt, Lu{\'\i}s MA and Cintr{\'o}n-Arias, Ariel and Kaiser, David I and Castillo-Ch{\'a}vez, Carlos},
+  journal={Physica A: Statistical Mechanics and its Applications},
+  volume={364},
+  pages={513--536},
+  year={2006},
+  publisher={Elsevier}
+}
+
+@article{bettencourt2010unified,
+  title={A unified theory of urban living},
+  author={Bettencourt, Luis and West, Geoffrey},
+  journal={Nature},
+  volume={467},
+  number={7318},
+  pages={912--913},
+  year={2010},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{chowell2007comparative,
+  title={Comparative estimation of the reproduction number for pandemic influenza from daily case notification data},
+  author={Chowell, Gerardo and Nishiura, Hiroshi and Bettencourt, Luis MA},
+  journal={Journal of the Royal Society Interface},
+  volume={4},
+  number={12},
+  pages={155--166},
+  year={2007},
+  publisher={The Royal Society London}
+}
+
+@article{bollen2009clickstream,
+  title={Clickstream data yields high-resolution maps of science},
+  author={Bollen, Johan and Van de Sompel, Herbert and Hagberg, Aric and Bettencourt, Luis and Chute, Ryan and Rodriguez, Marko A and Balakireva, Lyudmila},
+  journal={PloS one},
+  volume={4},
+  number={3},
+  pages={e4803},
+  year={2009},
+  publisher={Public Library of Science}
+}
+
+@article{bettencourt2013origins,
+  title={The origins of scaling in cities},
+  author={Bettencourt, Lu{\'\i}s MA},
+  journal={science},
+  volume={340},
+  number={6139},
+  pages={1438--1441},
+  year={2013},
+  publisher={American Association for the Advancement of Science}
+}
+
+@article{bettencourt2007invention,
+  title={Invention in the city: Increasing returns to patenting as a scaling function of metropolitan size},
+  author={Bettencourt, Luis MA and Lobo, Jos{\'e} and Strumsky, Deborah},
+  journal={Research policy},
+  volume={36},
+  number={1},
+  pages={107--120},
+  year={2007},
+  publisher={North-Holland}
+}
+
+@article{antunes1999vortex,
+  title={Vortex string formation in a 3D U (1) temperature quench},
+  author={Antunes, Nuno D and Bettencourt, Luis MA and Zurek, Wojciech H},
+  journal={Physical review letters},
+  volume={82},
+  number={14},
+  pages={2824},
+  year={1999},
+  publisher={American Physical Society}
+}
+
+@article{bettencourt2011evolution,
+  title={Evolution and structure of sustainability science},
+  author={Bettencourt, Lu{\'\i}s MA and Kaur, Jasleen},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={108},
+  number={49},
+  pages={19540--19545},
+  year={2011},
+  publisher={National Academy of Sciences}
+}
+
+@article{bettencourt2007functional,
+  title={Functional structure of cortical neuronal networks grown in vitro},
+  author={Bettencourt, Luis MA and Stephens, Greg J and Ham, Michael I and Gross, Guenter W},
+  journal={Physical Review E—Statistical, Nonlinear, and Soft Matter Physics},
+  volume={75},
+  number={2},
+  pages={021915},
+  year={2007},
+  publisher={American Physical Society}
+}
+
+@article{bender1996multiple,
+  title={Multiple-scale analysis of the quantum anharmonic oscillator},
+  author={Bender, Carl M and Bettencourt, Luis MA},
+  journal={Physical review letters},
+  volume={77},
+  number={20},
+  pages={4114},
+  year={1996},
+  publisher={APS}
+}
+
+@article{bender1996multiple,
+  title={Multiple-scale analysis of quantum systems},
+  author={Bender, Carl M and Bettencourt, Luis MA},
+  journal={Physical Review D},
+  volume={54},
+  number={12},
+  pages={7710},
+  year={1996},
+  publisher={APS}
+}
+
+@article{bettencourt2008population,
+  title={Population modeling of the emergence and development of scientific fields},
+  author={Bettencourt, Lu{\'\i}s and Kaiser, David and Kaur, Jasleen and Castillo-Chavez, Carlos and Wojick, David},
+  journal={Scientometrics},
+  volume={75},
+  number={3},
+  pages={495--518},
+  year={2008},
+  publisher={Akad{\'e}miai Kiad{\'o}, co-published with Springer Science+ Business Media BV~…}
+}
+
+@article{collins2006new,
+  title={New opportunities in ecological sensing using wireless sensor networks},
+  author={Collins, Scott L and Bettencourt, Lu{\'\i}s MA and Hagberg, Aric and Brown, Renee F and Moore, Douglas I and Bonito, Greg and Delin, Kevin A and Jackson, Shannon P and Johnson, David W and Burleigh, Scott C and others},
+  journal={Frontiers in Ecology and the Environment},
+  volume={4},
+  number={8},
+  pages={402--407},
+  year={2006},
+  publisher={Ecological Society of America}
+}
+
+@article{chowell20081918,
+  title={The 1918--1919 influenza pandemic in England and Wales: spatial patterns in transmissibility and mortality impact},
+  author={Chowell, Gerardo and Bettencourt, Lu{\'\i}s MA and Johnson, Niall and Alonso, Wladimir J and Viboud, Cecile},
+  journal={Proceedings of the Royal Society B: Biological Sciences},
+  volume={275},
+  number={1634},
+  pages={501--509},
+  year={2008},
+  publisher={The Royal Society London}
+}
+
+@article{bettencourt2009scientific,
+  title={Scientific discovery and topological transitions in collaboration networks},
+  author={Bettencourt, Lu{\'\i}s MA and Kaiser, David I and Kaur, Jasleen},
+  journal={Journal of Informetrics},
+  volume={3},
+  number={3},
+  pages={210--221},
+  year={2009},
+  publisher={Elsevier}
+}
+
+@article{ham2008spontaneous,
+  title={Spontaneous coordinated activity in cultured networks: analysis of multiple ignition sites, primary circuits, and burst phase delay distributions},
+  author={Ham, Michael I and Bettencourt, Luis M and McDaniel, Floyd D and Gross, Guenter W},
+  journal={Journal of computational neuroscience},
+  volume={24},
+  number={3},
+  pages={346--357},
+  year={2008},
+  publisher={Springer US Boston}
+}
+
+@article{bettencourt2008real,
+  title={Real time bayesian estimation of the epidemic potential of emerging infectious diseases},
+  author={Bettencourt, Luis MA and Ribeiro, Ruy M},
+  journal={PloS one},
+  volume={3},
+  number={5},
+  pages={e2185},
+  year={2008},
+  publisher={Public Library of Science}
+}
+
+@article{antunes1998thermodynamics,
+  title={Thermodynamics of cosmic string densities in U (1) scalar field theory},
+  author={Antunes, Nuno D and Bettencourt, Luis MA and Hindmarsh, Mark},
+  journal={Physical review letters},
+  volume={80},
+  number={5},
+  pages={908},
+  year={1998},
+  publisher={American Physical Society}
+}
+
+@article{bettencourt2009rules,
+  title={The rules of information aggregation and emergence of collective intelligent behavior},
+  author={Bettencourt, Lu{\'\i}s MA},
+  journal={Topics in Cognitive Science},
+  volume={1},
+  number={4},
+  pages={598--620},
+  year={2009},
+  publisher={Blackwell Publishing Ltd Oxford, UK}
+}
+
+@article{gomes2005comparative,
+  title={Comparative graph theoretical characterization of networks of spam and legitimate email},
+  author={Gomes, Luiz H and Almeida, Rodrigo B and Bettencourt, Luis and Almeida, Virgilio and Almeida, Jussara M},
+  journal={arXiv preprint physics/0504025},
+  year={2005}
+}
+
+@article{stephens2002critical,
+  title={Critical dynamics of gauge systems: Spontaneous vortex formation in 2D superconductors},
+  author={Stephens, GJ and Bettencourt, Luis MA and Zurek, WH},
+  journal={Physical review letters},
+  volume={88},
+  number={13},
+  pages={137004},
+  year={2002},
+  publisher={American Physical Society}
+}
+
+@inproceedings{bettencourt2007separating,
+  title={Separating the wheat from the chaff: Practical anomaly detection schemes in ecological applications of distributed sensor networks},
+  author={Bettencourt, Lu{\'\i}s MA and Hagberg, Aric A and Larkey, Levi B},
+  booktitle={International Conference on Distributed Computing in Sensor Systems},
+  pages={223--239},
+  year={2007},
+  organization={Springer Berlin Heidelberg Berlin, Heidelberg}
+}
+
+@article{bettencourt1995interactions,
+  title={Interactions between U (1) cosmic strings: An Analytical study},
+  author={Bettencourt, LMA and Rivers, RJ},
+  journal={Physical Review D},
+  volume={51},
+  number={4},
+  pages={1842},
+  year={1995},
+  publisher={American Physical Society}
+}
+
+@inproceedings{eagle2009community,
+  title={Community computing: Comparisons between rural and urban societies using mobile phone data},
+  author={Eagle, Nathan and de Montjoye, Yves-Alexandre and Bettencourt, Lu{\'\i}s MA},
+  booktitle={2009 international conference on computational science and engineering},
+  volume={4},
+  pages={144--150},
+  year={2009},
+  organization={IEEE}
+}
+
+@article{antunes1998length,
+  title={The length distribution of vortex strings in U (1) equilibrium scalar field theory},
+  author={Antunes, Nuno D and Bettencourt, Luis MA},
+  journal={Physical review letters},
+  volume={81},
+  number={15},
+  pages={3083},
+  year={1998},
+  publisher={APS}
+}
+
+@article{schlapfer2014scaling,
+  title={The scaling of human interactions with city size},
+  author={Schl{\"a}pfer, Markus and Bettencourt, Lu{\'\i}s MA and Grauwin, S{\'e}bastian and Raschke, Mathias and Claxton, Rob and Smoreda, Zbigniew and West, Geoffrey B and Ratti, Carlo},
+  journal={Journal of the Royal Society Interface},
+  volume={11},
+  number={98},
+  pages={20130789},
+  year={2014},
+  publisher={The Royal Society}
+}
+
+@article{bettencourt1994non,
+  title={Non-intercommuting configurations in the collisions of type IU (1) cosmic strings},
+  author={Bettencourt, LMA and Kibble, TWB},
+  journal={Physics Letters B},
+  volume={332},
+  number={3-4},
+  pages={297--304},
+  year={1994},
+  publisher={North-Holland}
+}
+
+@article{bettencourt2001dynamical,
+  title={Dynamical behavior of spatially inhomogeneous relativistic $\lambda$ $\varphi$ 4 quantum field theory in the Hartree approximation},
+  author={Bettencourt, Luis MA and Pao, Karen and Sanderson, JG},
+  journal={Physical Review D},
+  volume={65},
+  number={2},
+  pages={025015},
+  year={2001},
+  publisher={APS}
+}
+
+@article{bettencourt1997nonintercommuting,
+  title={Nonintercommuting cosmic strings},
+  author={Bettencourt, Luis MA and Laguna, Pablo and Matzner, Richard A},
+  journal={Physical review letters},
+  volume={78},
+  number={11},
+  pages={2066},
+  year={1997},
+  publisher={APS}
+}
+
+@article{bettencourt2008identification,
+  title={Identification of functional information subgraphs in complex networks},
+  author={Bettencourt, Lu{\'\i}s MA and Gintautas, Vadas and Ham, Michael I},
+  journal={Physical review letters},
+  volume={100},
+  number={23},
+  pages={238701},
+  year={2008},
+  publisher={APS}
+}
+
+@article{burnside2012human,
+  title={Human macroecology: Linking pattern and process in big-picture human ecology},
+  author={Burnside, William R and Brown, James H and Burger, Oskar and Hamilton, Marcus J and Moses, Melanie and Bettencourt, Luis MA},
+  journal={Biological Reviews},
+  volume={87},
+  number={1},
+  pages={194--208},
+  year={2012},
+  publisher={Blackwell Publishing Ltd Oxford, UK}
+}
+
+@article{bettencourt2004invention,
+  title={Invention in the city: Increasing returns to scale in metropolitan patenting},
+  author={Bettencourt, Luis MA and Lobo, Jos{\'e} and Strumsky, Deborah},
+  journal={Los Alamos National Laboratory technical ReportLAUR-04-8798},
+  year={2004},
+  publisher={Citeseer}
+}
+
+@article{gomez2012statistics,
+  title={The statistics of urban scaling and their connection to Zipf’s law},
+  author={Gomez-Lievano, Andres and Youn, HyeJin and Bettencourt, Luis MA},
+  journal={PloS one},
+  volume={7},
+  number={7},
+  pages={e40393},
+  year={2012},
+  publisher={Public Library of Science}
+}
+
+@article{bettencourt2000ginzburg,
+  title={Ginzburg regime and its effects on topological defect formation},
+  author={Bettencourt, Luis MA and Antunes, Nuno D and Zurek, WH},
+  journal={Physical Review D},
+  volume={62},
+  number={6},
+  pages={065005},
+  year={2000},
+  publisher={APS}
+}
+
+@inproceedings{bettencourt2007towards,
+  title={Towards real time epidemiology: data assimilation, modeling and anomaly detection of health surveillance data streams},
+  author={Bettencourt, Lu{\'\i}s MA and Ribeiro, Ruy M and Chowell, Gerardo and Lant, Timothy and Castillo-Chavez, Carlos},
+  booktitle={NSF workshop on intelligence and security informatics},
+  pages={79--90},
+  year={2007},
+  organization={Springer Berlin Heidelberg Berlin, Heidelberg}
+}
+
+@article{bettencourt2008large,
+  title={Why are large cities faster? Universal scaling and self-similarity in urban organization and dynamics},
+  author={Bettencourt, Lu{\'\i}s MA and Lobo, Jos{\'e} and West, Geoffrey B},
+  journal={The European Physical Journal B},
+  volume={63},
+  number={3},
+  pages={285--293},
+  year={2008},
+  publisher={EDP Sciences Les Ulis}
+}
+
+@article{gomes2005improving,
+  title={Improving Spam Detection Based on Structural Similarity.},
+  author={Gomes, Lu{\'\i}z Henrique and Castro, Fernando DO and Almeida, Virg{\'\i}lio AF and Almeida, Jussara M and Almeida, Rodrigo B and Bettencourt, Luis MA},
+  journal={SRUTI},
+  volume={5},
+  pages={12--12},
+  year={2005}
+}
+
+@misc{chowell2009mathematical,
+  title={Mathematical and statistical estimation approaches in epidemiology},
+  author={Chowell, Gerardo and Hyman, James M and Bettencourt, Lu{\'\i}s MA and Castillo-Chavez, Carlos and Nishiura, H},
+  year={2009},
+  publisher={Springer Dordrecht}
+}
+
+@article{bettencourt2011bigger,
+  title={Bigger cities do more with less.},
+  author={Bettencourt, Lu{\'\i}s MA and West, Geoffrey B},
+  journal={Scientific American},
+  volume={305},
+  number={3},
+  pages={52--53},
+  year={2011},
+  publisher={Scientific American}
+}
+
+@article{antunes1997out,
+  title={Out of equilibrium dynamics of quench-induced spontaneous symmetry breaking and topological defect formation},
+  author={Antunes, Nuno D and Bettencourt, Luis MA},
+  journal={Physical Review D},
+  volume={55},
+  number={2},
+  pages={925},
+  year={1997},
+  publisher={APS}
+}
+
+@article{vsavsik2000thermal,
+  title={Thermal vortex dynamics in a two-dimensional condensate},
+  author={{\v{S}}{\'a}{\v{s}}ik, R and Bettencourt, Luis MA and Habib, Salman},
+  journal={Physical Review B},
+  volume={62},
+  number={2},
+  pages={1238},
+  year={2000},
+  publisher={APS}
+}
+
+@article{bettencourt2002relativistic,
+  title={Relativistic hydrodynamic scaling from the dynamics of quantum field theory},
+  author={Bettencourt, Luis MA and Cooper, Fred and Pao, Karen},
+  journal={Physical review letters},
+  volume={89},
+  number={11},
+  pages={112301},
+  year={2002},
+  publisher={American Physical Society}
+}
+
+@article{bettencourt1999controlling,
+  title={Controlling one-dimensional Langevin dynamics on the lattice},
+  author={Bettencourt, Luis MA and Habib, Salman and Lythe, Grant},
+  journal={Physical Review D},
+  volume={60},
+  number={10},
+  pages={105039},
+  year={1999},
+  publisher={American Physical Society}
+}
+
+@article{larkey2006situ,
+  title={In-situ data quality assurance for environmental applications of wireless sensor networks},
+  author={Larkey, Levi B and Bettencourt, L and Hagberg, A},
+  journal={ACM Transactions on Sensor Networks. Unpublished},
+  year={2006}
+}
+
+@inproceedings{brumby2009large,
+  title={Large-scale functional models of visual cortex for remote sensing},
+  author={Brumby, Steven P and Kenyon, Garrett and Landecker, Will and Rasmussen, Craig and Swaminarayan, Sriram and Bettencourt, Luis MA},
+  booktitle={2009 IEEE Applied Imagery Pattern Recognition Workshop (AIPR 2009)},
+  pages={1--6},
+  year={2009},
+  organization={IEEE}
+}
+
+@article{bettencourt1998time,
+  title={Time evolution of correlation functions for classical and quantum anharmonic oscillators},
+  author={Bettencourt, Luis and Wetterich, Christof},
+  journal={arXiv preprint hep-ph/9805360},
+  year={1998}
+}
+
+@article{bergner2003step,
+  title={A step beyond the bounce: Bubble dynamics in quantum phase transitions},
+  author={Bergner, Yoav and Bettencourt, Luis MA},
+  journal={Physical Review D},
+  volume={68},
+  number={2},
+  pages={025014},
+  year={2003},
+  publisher={APS}
+}
+
+@article{ortman2014pre,
+  title={The pre-history of urban scaling},
+  author={Ortman, Scott G and Cabaniss, Andrew HF and Sturm, Jennie O and Bettencourt, Luis MA},
+  journal={PloS one},
+  volume={9},
+  number={2},
+  pages={e87902},
+  year={2014},
+  publisher={Public Library of Science San Francisco, USA}
+}
+
+@article{bettencourt2014professional,
+  title={Professional diversity and the productivity of cities},
+  author={Bettencourt, Lu{\'\i}s MA and Samaniego, Horacio and Youn, Hyejin},
+  journal={Scientific reports},
+  volume={4},
+  number={1},
+  pages={5393},
+  year={2014},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{lobo2013urban,
+  title={Urban scaling and the production function for cities},
+  author={Lobo, Jos{\'e} and Bettencourt, Lu{\'\i}s MA and Strumsky, Deborah and West, Geoffrey B},
+  journal={PLoS One},
+  volume={8},
+  number={3},
+  pages={e58407},
+  year={2013},
+  publisher={Public Library of Science}
+}
+
+@article{gomes2009quantifying,
+  title={Quantifying social and opportunistic behavior in email networks},
+  author={Gomes, Luiz H and Almeida, Virgilio AF and Almeida, Jussara M and Castro, Fernando DO and Bettencourt, Lu{\'\i}s MA},
+  journal={Advances in Complex Systems},
+  volume={12},
+  number={01},
+  pages={99--112},
+  year={2009},
+  publisher={World Scientific}
+}
+
+@article{bergner2004self,
+  title={Self-consistent bounce: An improved nucleation rate},
+  author={Bergner, Yoav and Bettencourt, Luis MA},
+  journal={Physical Review D},
+  volume={69},
+  number={4},
+  pages={045012},
+  year={2004},
+  publisher={APS}
+}
+
+@article{bergner2004dressing,
+  title={Dressing up the kink},
+  author={Bergner, Yoav and Bettencourt, Luis MA},
+  journal={Physical Review D},
+  volume={69},
+  number={4},
+  pages={045002},
+  year={2004},
+  publisher={American Physical Society}
+}
+
+@incollection{zurek2000shards,
+  title={Shards of broken symmetry: Topological defects as traces of the phase transition dynamics},
+  author={Zurek, WH and Bettencourt, LMA and Dziarmaga, J and Antunes, ND},
+  booktitle={Topological Defects and the Non-Equilibrium Dynamics of Symmetry Breaking Phase Transitions},
+  pages={77--103},
+  year={2000},
+  publisher={Springer Netherlands Dordrecht}
+}
+
+@article{bettencourt1995coarse,
+  title={Coarse-grained fluctuation probabilities in the standard model and subcritical bubbles},
+  author={Bettencourt, LMA},
+  journal={Physics Letters B},
+  volume={356},
+  number={2-3},
+  pages={297--306},
+  year={1995},
+  publisher={North-Holland}
+}
+
+@article{bettencourt2014uses,
+  title={The uses of big data in cities},
+  author={Bettencourt, Lu{\'\i}s MA},
+  journal={Big data},
+  volume={2},
+  number={1},
+  pages={12--22},
+  year={2014},
+  publisher={Mary Ann Liebert, Inc. 140 Huguenot Street, 3rd Floor New Rochelle, NY 10801 USA}
+}
+
+@incollection{achler2011evaluating,
+  title={Evaluating the contribution of top-down feedback and post-learning reconstruction},
+  author={Achler, Tsvi and Bettencourt, Lu{\'\i}s},
+  booktitle={Biologically Inspired Cognitive Architectures 2011},
+  pages={9--15},
+  year={2011},
+  publisher={IOS Press}
+}
+
+@article{bettencourt2003tipping,
+  title={Tipping the balances of a small world},
+  author={Bettencourt, Luis},
+  journal={arXiv preprint cond-mat/0304321},
+  year={2003}
+}
+
+@article{antunes2001predicting,
+  title={Predicting the critical density of topological defects in O (N) scalar field theories},
+  author={Antunes, Nuno D and Bettencourt, Luis MA and Yates, Andrew},
+  journal={Physical Review D},
+  volume={64},
+  number={6},
+  pages={065020},
+  year={2001},
+  publisher={APS}
+}
+
+@article{bettencourt1996winding,
+  title={Winding number correlation functions and cosmic string formation},
+  author={Bettencourt, LMA and Evans, TS and Rivers, RJ},
+  journal={Physical Review D},
+  volume={53},
+  number={2},
+  pages={668},
+  year={1996},
+  publisher={APS}
+}
+
+@article{bettencourt2002boom,
+  title={From boom to bust and back again: the complex dynamics of trends and fashions},
+  author={Bettencourt, Luis},
+  journal={arXiv preprint cond-mat/0212267},
+  year={2002}
+}
+
+@article{gintautas2011model,
+  title={Model cortical association fields account for the time course and dependence on target complexity of human contour perception},
+  author={Gintautas, Vadas and Ham, Michael I and Kunsberg, Benjamin and Barr, Shawn and Brumby, Steven P and Rasmussen, Craig and George, John S and Nemenman, Ilya and Bettencourt, Luis MA and Kenyon, Garret T},
+  journal={PLoS Computational Biology},
+  volume={7},
+  number={10},
+  pages={e1002162},
+  year={2011},
+  publisher={Public Library of Science San Francisco, USA}
+}
+
+@article{bettencourt2013hypothesis,
+  title={The hypothesis of urban scaling: formalization, implications and challenges},
+  author={Bettencourt, Luis and Lobo, Jose and Youn, Hyejin},
+  journal={arXiv preprint arXiv:1301.5919},
+  year={2013}
+}
+
+@article{bettencourt2001properties,
+  title={Properties of the Langevin and Fokker-Planck equations for scalar fields and their application to the dynamics of second order phase transitions},
+  author={Bettencourt, Lu{\'\i}s MA},
+  journal={Physical Review D},
+  volume={63},
+  number={4},
+  pages={045020},
+  year={2001},
+  publisher={APS}
+}
+
+@incollection{bettencourt2009ensemble,
+  title={An ensemble trajectory method for real-time modeling and prediction of unfolding epidemics: analysis of the 2005 Marburg Fever outbreak in Angola},
+  author={Bettencourt, Lu{\'\i}s MA},
+  booktitle={Mathematical and Statistical Estimation Approaches in Epidemiology},
+  pages={143--161},
+  year={2009},
+  publisher={Springer Netherlands Dordrecht}
+}
+
+@techreport{bettencourt2006report,
+  title={Report for the office of scientific and technical information: population modeling of the emergence and development of scientific fields},
+  author={Bettencourt, L and Castillo-Ch{\'a}vez, Carlos and Kaiser, David and Wojick, David E},
+  year={2006},
+  institution={Information International Associates, Inc.(IIA)}
+}
+
+@article{ortman2015settlement,
+  title={Settlement scaling and increasing returns in an ancient society},
+  author={Ortman, Scott G and Cabaniss, Andrew HF and Sturm, Jennie O and Bettencourt, Lu{\'\i}s MA},
+  journal={Science advances},
+  volume={1},
+  number={1},
+  pages={e1400066},
+  year={2015},
+  publisher={American Association for the Advancement of Science}
+}
+
+@inproceedings{ji2011hierarchical,
+  title={Hierarchical discriminative sparse coding via bidirectional connections},
+  author={Ji, Zhengping and Huang, Wentao and Kenyon, Garrett and Bettencourt, Luis MA},
+  booktitle={The 2011 International Joint Conference on Neural Networks},
+  pages={2844--2851},
+  year={2011},
+  organization={IEEE}
+}
+
+@article{andris2014development,
+  title={Development, information and social connectivity in C{\^o}te d’Ivoire},
+  author={Andris, Clio and Bettencourt, Luis MA},
+  journal={Infrastructure Complexity},
+  volume={1},
+  number={1},
+  pages={1},
+  year={2014},
+  publisher={Springer International Publishing Cham}
+}
+
+@article{ortman2013urban,
+  title={Urban Scaling in Prehispanic Central Mexico},
+  author={Ortman, Scott},
+  year={2013}
+}
+
+@article{gomes2006quantifying,
+  title={Quantifying social vs. antisocial behavior in email networks},
+  author={Gomes, Luiz H and Bettencourt, Luis and Almeida, Virgilio AF and Almeida, Jussara M and Castro, Fernando},
+  journal={arXiv preprint physics/0601141},
+  year={2006}
+}
+
+@article{landecker2010visualizing,
+  title={Visualizing classification decisions of hierarchical models of cortex},
+  author={Landecker, W and Brumby, S and Thomure, M and Kenyon, G and Bettencourt, L and Mitchell, M},
+  journal={Computational and Systems Neuroscience (COSYNE)},
+  year={2010}
+}
+
+@article{bettencourt2003vortex,
+  title={Vortex description of the first-order phase transition in the two-dimensional Abelian-Higgs model},
+  author={Bettencourt, Lu{\'\i}s MA and Stephens, Greg J},
+  journal={Physical Review E},
+  volume={67},
+  number={6},
+  pages={066105},
+  year={2003},
+  publisher={APS}
+}
+
+@article{youn2015invention,
+  title={Invention as a combinatorial process: evidence from US patents},
+  author={Youn, Hyejin and Strumsky, Deborah and Bettencourt, Luis MA and Lobo, Jos{\'e}},
+  journal={Journal of the Royal Society interface},
+  volume={12},
+  number={106},
+  pages={20150272},
+  year={2015},
+  publisher={The Royal Society}
+}
+
+@article{antunes2002role,
+  title={Role of pointlike topological excitations at criticality: From vortices to global monopoles},
+  author={Antunes, Nuno D and Bettencourt, Lu{\'\i}s MA and Kunz, Martin},
+  journal={Physical Review E},
+  volume={65},
+  number={6},
+  pages={066117},
+  year={2002},
+  publisher={APS}
+}
+
+@article{bettencourt2014impact,
+  title={Impact of changing technology on the evolution of complex informational networks},
+  author={Bettencourt, Lu{\'\i}s MA},
+  journal={Proceedings of the IEEE},
+  volume={102},
+  number={12},
+  pages={1878--1891},
+  year={2014},
+  publisher={IEEE}
+}
+
+@article{loxley2011ultra,
+  title={Ultra-fast detection of salient contours through horizontal connections in the primary visual cortex},
+  author={Loxley, PN and Bettencourt, LM and Kenyon, GT},
+  journal={Europhysics Letters},
+  volume={93},
+  number={6},
+  pages={64001},
+  year={2011},
+  publisher={IOP Publishing}
+}
+
+@incollection{lobo2011economic,
+  title={The economic productivity of urban areas: Disentangling general scale effects from local exceptionality},
+  author={Lobo, JLMA and Bettencourt, Lu{\'\i}s MA and Strumsky, Deborah and West, Geoffrey B},
+  booktitle={Santa Fe Institute working paper SFA-2011-09-046, September},
+  year={2011}
+}
+
+@article{youn2014systematic,
+  title={The systematic structure and predictability of urban business diversity},
+  author={Youn, Hyejin and Bettencourt, Lu{\'\i}s and Lobo, Jos{\'e} and Strumsky, Deborah and Samaniego, Horacio and West, Geoffrey B},
+  journal={arXiv preprint arXiv:1405.3202},
+  year={2014}
+}
+
+@incollection{mottola2001electrical,
+  title={The Electrical Conductivity in High Temperature QED},
+  author={Mottola, Emil and BETTENCOURT, LUIS MA},
+  booktitle={Strong And Electroweak Matter 2000},
+  pages={153--159},
+  year={2001}
+}
+
+@article{bettencourt2015industrial,
+  title={Industrial ecology: The view from complex systems},
+  author={Bettencourt, Lu{\'\i}s MA and Brelsford, Christa and others},
+  journal={Journal of Industrial Ecology},
+  volume={19},
+  number={2},
+  pages={195--197},
+  year={2015},
+  publisher={Yale University}
+}
+
+@article{bettencourt2015formation,
+  title={Formation of scientific fields as a universal topological transition},
+  author={Bettencourt, Luis and Kaiser, David I},
+  journal={arXiv preprint arXiv:1504.00319},
+  year={2015}
+}
+
+@article{ham2010density,
+  title={Density-dependence of functional development in spiking cortical networks grown in vitro},
+  author={Ham, Michael I and Gintautas, Vadas and Rodriguez, Marko A and Bennett, Ryan A and Maria, Cara L Santa and Bettencourt, Lu{\`\i}s MA},
+  journal={Biological cybernetics},
+  volume={102},
+  number={1},
+  pages={71--80},
+  year={2010},
+  publisher={Springer-Verlag Berlin/Heidelberg}
+}
+
+@article{sanbonmatsu2010comparing,
+  title={Comparing speed-of-sight studies using rendered vs. natural images},
+  author={Sanbonmatsu, Kevin and Bennett, Ryan and Barr, Shawn and Renaudo, Cristina and Ham, Michael and Gintautas, Vadas and Brumby, Steven and George, John and Kenyon, Garrett and Bettencourt, Luis},
+  journal={Journal of Vision},
+  volume={10},
+  number={7},
+  pages={986--986},
+  year={2010},
+  publisher={The Association for Research in Vision and Ophthalmology}
+}
+
+@article{daepp2015mortality,
+  title={The mortality of companies},
+  author={Daepp, Madeleine IG and Hamilton, Marcus J and West, Geoffrey B and Bettencourt, Lu{\'\i}s MA},
+  journal={Journal of the Royal Society Interface},
+  volume={12},
+  number={106},
+  pages={20150120},
+  year={2015},
+  publisher={The Royal Society}
+}
+
+@techreport{gintautas2008leveraging,
+  title={Leveraging synergy for multiple agent infotaxis},
+  author={Gintautas, Vadas and Hagberg, Aric A and Bettencourt, Luis},
+  year={2008},
+  institution={Los Alamos National Laboratory (LANL), Los Alamos, NM (United States)}
+}
+
+@article{gintautas2010improved,
+  title={An improved model for contour completion in V1 using learned feature correlation statistics},
+  author={Gintautas, Vadas and Kunsberg, Benjamin and Ham, Michael and Barr, Shawn and Zucker, Steve and Brumby, Steven and Bettencourt, Luis MA and Kenyon, Garrett T},
+  journal={J. Vis},
+  volume={10},
+  number={1162.10},
+  pages={1167},
+  year={2010}
+}
+
+@incollection{gintautas2009social,
+  title={When is social computation better than the sum of its parts?},
+  author={Gintautas, Vadas and Hagberg, Aric and Bettencourt, Lu{\'\i}s MA},
+  booktitle={Social Computing and Behavioral Modeling},
+  pages={1--9},
+  year={2009},
+  publisher={Springer US Boston, MA}
+}
+
+@inproceedings{landecker2013interpreting,
+  title={Interpreting individual classifications of hierarchical networks},
+  author={Landecker, Will and Thomure, Michael D and Bettencourt, Lu{\'\i}s MA and Mitchell, Melanie and Kenyon, Garrett T and Brumby, Steven P},
+  booktitle={2013 IEEE symposium on computational intelligence and data mining (CIDM)},
+  pages={32--38},
+  year={2013},
+  organization={IEEE}
+}
+
+@article{brumby2011visualizing,
+  title={Visualizing classification of natural video sequences using sparse, hierarchical models of cortex.},
+  author={Brumby, Steven and Ham, Michael and Landecker, Will and Kenyon, Garrett and Bettencourt, Luis},
+  journal={Nature Precedings},
+  pages={1--1},
+  year={2011},
+  publisher={Nature Publishing Group UK London}
+}
+
+@inproceedings{bettencourt2005tipping,
+  title={Tipping the balances of a small world: Spontaneous herding and social structure},
+  author={Bettencourt, Lu{\'\i}s MA},
+  year={2005},
+  organization={Santa Fe Institute Santa Fe, NM}
+}
+
+@article{zurek2001shards,
+  title={Shards of broken symmetry: Topological defects as traces of the phase transition dynamics (vol 31, pg 2937, 2000)},
+  author={Zurek, WH and Bettencourt, LMA and Dziarmaga, J and Antunes, ND},
+  journal={ACTA PHYSICA POLONICA B},
+  volume={32},
+  number={7-8},
+  pages={2279--2279},
+  year={2001},
+  publisher={ACTA PHYSICA POLONICA B, JAGELLONIAN UNIV, INST PHYSICS REYMONTA 4, 30-059~…}
+}
+
+@article{guthormsen2012effect,
+  title={Effect of Target/Non-Target Similarity on the Timecourse of Visual Object Recognition: An ERP investigation},
+  author={Guthormsen, Amy and Ham, Michael and Fearey, Brenna and Bettencourt, Luis and George, John},
+  journal={Journal of Vision},
+  volume={12},
+  number={9},
+  pages={819--819},
+  year={2012},
+  publisher={The Association for Research in Vision and Ophthalmology}
+}
+
+@inproceedings{huang2012development,
+  title={Development of invariant feature maps via a computational model of simple and complex cells},
+  author={Huang, Wentao and Ji, Zhengping and Brumby, Steven P and Kenyon, Garrett and Bettencourt, Luis MA},
+  booktitle={The 2012 International Joint Conference on Neural Networks (IJCNN)},
+  pages={1--7},
+  year={2012},
+  organization={IEEE}
+}
+
+@article{gintautas2009identification,
+  title={Identification of functional information subgraphs in cultured neural networks},
+  author={Gintautas, Vadas and Bettencourt, Luis MA and Ham, Michael I},
+  journal={BMC Neuroscience},
+  volume={10},
+  number={Suppl 1},
+  pages={O12},
+  year={2009},
+  publisher={BioMed Central London}
+}
+
+@article{antunes1996simulation,
+  title={Simulation of Non-Equilibrium Defect Production in Early Universe},
+  author={Antunes, ND and Bettencourt, LMA},
+  year={1996},
+  publisher={Citeseer}
+}
+
+@inproceedings{brumby2010quantifying,
+  title={Quantifying the difficulty of object recognition tasks via scaling of accuracy vs. training set size},
+  author={Brumby, S and Bettencourt, LM and Rasmussen, C and Bennett, R and Ham, M and Kenyon, G},
+  booktitle={Front. Neurosci. Conference Abstract: Computational and Systems Neuroscience},
+  year={2010}
+}
+
+@inproceedings{bettencourt2004syncronization,
+  title={Syncronization of firing patterns in neuronal cultures},
+  author={Bettencourt, Luis and Stephens, Greg and Guenter, Gross},
+  booktitle={APS March Meeting Abstracts},
+  volume={2004},
+  pages={V8--012},
+  year={2004}
+}
+
+@article{chiaophoton,
+  title={Photon superfluid as a complex adaptative medium Critical phenomena and spatial solitons in nonlinear cavities},
+  author={Chiao, Raymond and Boyce, Jack and McGuire, John and Zurek, Wojciech H and Bettencourt, Luis MA},
+  publisher={Citeseer}
+}
+
+@article{ji2012integrating,
+  title={Integrating Bottom-up and Top-down Visual Attention for Object Segmentation},
+  author={Ji, Zhengping and Brumby, Steven P and Kenyon, Garrett and Bettencourt, Luis MA},
+  journal={Journal of Vision},
+  volume={12},
+  number={9},
+  pages={926--926},
+  year={2012},
+  publisher={The Association for Research in Vision and Ophthalmology}
+}
+
+@article{achler2011asymmetry,
+  title={Asymmetry and similarity phenomena in backwards masking experiments suggest reentrant processing},
+  author={Achler, Tsvi and Ham, Mike and Barr, Shawn and George, John and McCarley, Jason and Kenyon, Garrett and Bettencourt, Luis},
+  journal={Journal of Vision},
+  volume={11},
+  number={11},
+  pages={1230--1230},
+  year={2011},
+  publisher={The Association for Research in Vision and Ophthalmology}
+}
+
+@techreport{achler2011similar,
+  title={Similar mechanisms underlying fast masking and search?},
+  author={Achler, Tsvi and Bettencourt, Luis and Kenyon, Garrett},
+  year={2011},
+  institution={Los Alamos National Laboratory (LANL), Los Alamos, NM (United States)}
+}
+
+@article{almeidaimproving,
+  title={Improving Spam Detection Based on Structural Similarity},
+  author={Almeida, Jussara and Gomes, Luiz Henrique and Castro, Fernando and Almeida, Rodrigo and Bettencourt, Luis and Almeida, Virg{\'\i}lio}
+}
+
+@incollection{bettencourt2001role,
+  title={The Role of Topological Excitations at Second-Order Transitions},
+  author={Bettencourt, LMA},
+  booktitle={Fluctuating Paths And Fields: Festschrift Dedicated to Hagen Kleinert on the Occasion of His 60th Birthday},
+  pages={589--599},
+  year={2001}
+}
+
+@article{poweratlas,
+  title={Atlas of Science: References},
+  author={Power, Knowledge Equals and Hardy, Elisha F and Hook, Bryan J and Hook, Peter A and Bettencourt, Lu{\'\i}s MA and Uzzo, Stephen M}
+}
+
+@incollection{cintron2005transmission,
+  title={On the transmission dynamics of knowledge},
+  author={Cintron-Arias, Ariel and Bettencourt, Luis MA and Kaiser, David I and Castillo-Chavez, Carlos},
+  booktitle={Technical report},
+  year={2005},
+  publisher={Office of Scientific and Technical Information—US Department of Energy}
+}
+
+@incollection{wang2014linked,
+  title={Linked activity spaces: Embedding social networks in urban space},
+  author={Wang, Yaoli and Kang, Chaogui and Bettencourt, Lu{\'\i}s MA and Liu, Yu and Andris, Clio},
+  booktitle={Computational approaches for urban environments},
+  pages={313--336},
+  year={2014},
+  publisher={Springer International Publishing Cham}
+}
+
+@techreport{bettencourt2009boom,
+  title={A boom in energy technology innovation despite decades of stagnant investment},
+  author={Bettencourt, Luis M and Trancik, Jessika A and Kaur, Jasleen},
+  year={2009},
+  institution={Los Alamos National Laboratory (LANL), Los Alamos, NM (United States)}
+}
+
+@inproceedings{bettencourt2009symp,
+  title={SYMP 8-8: Urbanization and sustainability: Quantifying the burden of human development on the Earth’s natural environment},
+  author={Bettencourt, Luis MA},
+  booktitle={The 94th ESA Annual Meeting},
+  year={2009}
+}
+
+@article{hamrelationship,
+  title={On the relationship between neural density and functional connectivity in the murine cortex},
+  author={Ham, Michael and Rodriguez, Marko A and Gintautas, Vadas and Bennett, Ryan and Santa Maria, Cara L and Bettencourt, Luis MA},
+  publisher={Citeseer}
+}
+
+@article{kenyon2010top,
+  title={Top-down models explain key aspects of a Speed-of-Sight character recognition task},
+  author={Kenyon, Garrett T and Barr, Shawn and Ham, Michael and Gintautas, Vadas and Rinaudo, Cristina and Nemenman, Ilya and Anghel, Marian and Brumby, Steven and George, John S and Bettencourt, Luis MA},
+  journal={Journal of Vision},
+  volume={10},
+  number={7},
+  pages={985--985a},
+  year={2010},
+  publisher={The Association for Research in Vision and Ophthalmology}
+}
+
+@article{george2009modeling,
+  title={Modeling Consequences of Microscopic Eye Movements on Visual Spatial Perception},
+  author={George, JS and Kenyon, GT and Ham, MI and Nemenman, IM and Bettencourt, LM},
+  journal={NeuroImage},
+  volume={47},
+  pages={S86},
+  year={2009},
+  publisher={Academic Press}
+}
+
+@article{bettencourt2007part,
+  title={Part I-Long Papers-Outbreak Detection Algorithms-Towards Real Time Epidemiology: Data Assimilation, Modeling and Anomaly Detection of Health Surveillance Data Streams},
+  author={Bettencourt, Luis MA and Ribeiro, Ruy M and Chowell, Gerardo and Lant, Timothy and Castillo-Chavez, Carlos},
+  journal={Lecture Notes in Computer Science},
+  volume={4506},
+  pages={79--90},
+  year={2007},
+  publisher={Berlin: Springer-Verlag, 1973-}
+}
+
+@inproceedings{schultz2012symmetry,
+  title={A symmetry-breaking generative model of a simple-cell/complex-cell hierarchy},
+  author={Schultz, Peter F and Bettencourt, Luis M and Kenyon, Garrett T},
+  booktitle={2012 IEEE Southwest Symposium on Image Analysis and Interpretation},
+  pages={89--92},
+  year={2012},
+  organization={IEEE}
+}
+
+@incollection{bettencourt2001topological,
+  title={Topological excitations and second order transitions in 3D O (N) models},
+  author={Bettencourt, Luis MA},
+  booktitle={Topology Of Strongly Correlated Systems},
+  pages={50--61},
+  year={2001}
+}
+
+@article{kibalnikinformation,
+  title={Information Theory of Hierarchical Circuits},
+  author={Kibalnik, Anton and Bettencourt, Luis MA}
+}
+
+@inproceedings{bettencourt2004networks,
+  title={Networks of Learning},
+  author={Bettencourt, Luis and Kaiser, David},
+  booktitle={APS March Meeting Abstracts},
+  volume={2004},
+  pages={U18--005},
+  year={2004}
+}
+
+@article{gintautas2011cooperative,
+  title={Cooperative searching for stochastic targets},
+  author={Gintautas, Vadas and Hagberg, Aric and Bettencourt, Luis},
+  journal={arXiv preprint arXiv:1103.4888},
+  year={2011}
+}
+
+@article{borner2009support,
+  title={in SupporT of DiScoVery},
+  author={B{\"o}rner, Katy and Bettencourt, Lu{\'\i}s MA and Gerstein, Mark and Uzzo, Stephen M},
+  year={2009}
+}
+
+@article{ham2011task,
+  title={Task-specific saliency from sparse, hierarchical models of visual cortex compared to eye-tracking data for object detection in natural video sequences},
+  author={Ham, Michael and Brumby, Steven and Ji, Zhengping and Sanbonmatsu, Karissa and Kenyon, Garrett and George, John and Bettencourt, Luis},
+  journal={Journal of Vision},
+  volume={11},
+  number={11},
+  pages={1281--1281},
+  year={2011},
+  publisher={The Association for Research in Vision and Ophthalmology}
+}
+
+@article{loxley2011visually,
+  title={Visually-salient contour detection using a V1 neural model with horizontal connections},
+  author={Loxley, PN and Bettencourt, LM},
+  journal={arXiv preprint arXiv:1103.3531},
+  year={2011}
+}
+
+@misc{brumby2015image,
+  title={Image fusion using sparse overcomplete feature dictionaries},
+  author={Brumby, Steven P and Bettencourt, Luis and Kenyon, Garrett T and Chartrand, Rick and Wohlberg, Brendt},
+  year={2015},
+  month=oct # "~6",
+  note={US Patent 9,152,881}
+}
+
+@article{bettencourt2015cities,
+  title={Cities as complex systems},
+  author={Bettencourt, Lu{\'\i}s MA},
+  journal={Modeling complex systems for public policies},
+  pages={217--236},
+  year={2015},
+  publisher={Institute for Applied Economic Research}
+}
+
+@article{bettencourt2016urban,
+  title={Urban scaling in Europe},
+  author={Bettencourt, Lu{\'\i}s MA and Lobo, Jos{\'e}},
+  journal={Journal of The Royal Society Interface},
+  volume={13},
+  number={116},
+  pages={20160005},
+  year={2016},
+  publisher={The Royal Society}
+}
+
+@article{cesaretti2016population,
+  title={Population-area relationship for Medieval European cities},
+  author={Cesaretti, Rudolf and Lobo, Jos{\'e} and Bettencourt, Lu{\'\i}s MA and Ortman, Scott G and Smith, Michael E},
+  journal={PloS one},
+  volume={11},
+  number={10},
+  pages={e0162678},
+  year={2016},
+  publisher={Public Library of Science}
+}
+
+@article{schlapfer2015urban,
+  title={Urban skylines: building heights and shapes as measures of city size},
+  author={Schl{\"a}pfer, Markus and Lee, Joey and Bettencourt, Lu{\'\i}s},
+  journal={arXiv preprint arXiv:1512.00946},
+  year={2015}
+}
+
+@article{youn2016scaling,
+  title={Scaling and universality in urban economic diversification},
+  author={Youn, Hyejin and Bettencourt, Lu{\'\i}s MA and Lobo, Jos{\'e} and Strumsky, Deborah and Samaniego, Horacio and West, Geoffrey B},
+  journal={Journal of The Royal Society Interface},
+  volume={13},
+  number={114},
+  pages={20150937},
+  year={2016},
+  publisher={The Royal Society}
+}
+
+@article{bettencourt2010urban,
+  title={Urban scaling and its deviations: Revealing the structure of wealth, innovation and crime across cities},
+  author={Bettencourt, Lu{\'\i}s MA and Lobo, Jos{\'e} and Strumsky, Deborah and West, Geoffrey B},
+  journal={PloS one},
+  volume={5},
+  number={11},
+  pages={e13541},
+  year={2010},
+  publisher={Public Library of Science}
+}
+
+@article{bettencourt2013determinants,
+  title={Determinants of the pace of global innovation in energy technologies},
+  author={Bettencourt, Lu{\'\i}s MA and Trancik, Jessika E and Kaur, Jasleen},
+  journal={PloS one},
+  volume={8},
+  number={10},
+  pages={e67864},
+  year={2013},
+  publisher={Public Library of Science}
+}
+
+@inproceedings{bettencourt2013complexity,
+  title={Complexity, cities and energy},
+  author={Bettencourt, L},
+  booktitle={International Seminar on Nuclear War and Planetary Emergencies—45th Session},
+  pages={313--325},
+  year={2013}
+}
+
+@article{brelsford2015topology,
+  title={The topology of cities},
+  author={Brelsford, Christa and Martin, Taylor and Hand, Joe and Bettencourt, Lu{\'\i}s MA},
+  journal={Recuperado de},
+  year={2015}
+}
+
+@article{bettencourt2013cities,
+  title={Cities are much more than people: They’re social reactors},
+  author={Bettencourt, Lu{\'\i}s},
+  journal={The Santa Fe New Mexican},
+  year={2013}
+}
+
+@article{achler2011asymmetry,
+  title={Asymmetry and Similarity Phenomena in Backwards Masking Experiments Suggest Internal Reconstruction.},
+  author={Achler, Tsvi and Bettencourt, Luis and Kenyon, Garrett},
+  journal={Change},
+  volume={25},
+  number={50},
+  pages={75},
+  year={2011}
+}
+
+@article{ortman2016settlement,
+  title={Settlement scaling and economic change in the Central Andes},
+  author={Ortman, Scott G and Davis, Kaitlyn E and Lobo, Jos{\'e} and Smith, Michael E and Bettencourt, Luis MA and Trumbo, Aaron},
+  journal={Journal of Archaeological Science},
+  volume={73},
+  pages={94--106},
+  year={2016},
+  publisher={Academic Press}
+}
+
+@misc{galesic2015can,
+  title={Can small crowds be wise? Moderate-sized groups can outperform large groups and individuals under some task conditions},
+  author={Galesic, Mirta and Barkoczi, Daniel and Katsikopoulos, Konstantinos and Perrone, P and Ay, N and Straatman, B and Madsen, B},
+  year={2015},
+  publisher={Santa Fe Institute (SFI) working paper}
+}
+
+@misc{bettencourt2011age,
+  title={The age of the megacity},
+  author={Bettencourt, Lu{\'\i}s MA},
+  year={2011},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{bettencourt2013urban,
+  title={Urban truths},
+  author={Bettencourt, Lu{\'\i}s MA},
+  journal={New scientist},
+  number={2947},
+  pages={30--31},
+  year={2013},
+  publisher={New Science}
+}
+
+@article{daepp2015mortality,
+  title={The Mortality of Companies Supplementary Online Material},
+  author={Daepp, MG and Hamilton, MJ and West, GB and Bettencourt, LMA},
+  year={2015}
+}
+
+@article{bettencourt2016science,
+  title={Science and practice for thriving cities},
+  author={Bettencourt, Lu{\'\i}s MA and Gonzales, Javier},
+  journal={Innovations: Technology, Governance, Globalization},
+  volume={11},
+  number={1-2},
+  pages={20--30},
+  year={2016},
+  publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
+}
+
+@article{bettencourt2011information,
+  title={Information processing structures in neural populations in vitro},
+  author={Bettencourt, Lu{\'\i}s MA},
+  journal={Network Architecture of Brain Structures and Functions},
+  pages={6},
+  year={2011}
+}
+
+@article{higham2017overview,
+  title={An overview of city analytics},
+  author={Higham, Desmond J and Batty, Michael and Bettencourt, Lu{\'\i}s MA and Greetham, Danica Vukadinovi{\'c} and Grindrod, Peter},
+  journal={Royal Society Open Science},
+  volume={4},
+  number={2},
+  pages={161063},
+  year={2017},
+  publisher={The Royal Society Publishing}
+}
+
+@article{bettencourt2001langevin,
+  title={Langevin evolution of disoriented chiral condensate},
+  author={Bettencourt, Lu{\i}́s MA and Rajagopal, Krishna and Steele, James V},
+  journal={Nuclear Physics A},
+  volume={693},
+  number={3-4},
+  pages={825--843},
+  year={2001},
+  publisher={North-Holland}
+}
+
+@article{brelsford2017heterogeneity,
+  title={Heterogeneity and scale of sustainable development in cities},
+  author={Brelsford, Christa and Lobo, Jos{\'e} and Hand, Joe and Bettencourt, Lu{\'\i}s MA},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={114},
+  number={34},
+  pages={8963--8968},
+  year={2017},
+  publisher={National Academy of Sciences}
+}
+
+@techreport{ham2008density,
+  title={Density-dependence of functional spiking networks in vitro},
+  author={Ham, Michael I and Gintautuas, Vadas and Rodriguez, Marko A and Bettencourt, Luis and Bennett, Ryan and Santa Maria, Cara L},
+  year={2008},
+  institution={Los Alamos National Laboratory (LANL), Los Alamos, NM (United States)}
+}
+
+@article{altexaddresses,
+  title={Addresses of Participants of Thermo'95},
+  author={Altex, CPK and Alvarez-Estrada, RF and An, I and Antunes, N and Arimitsu, N and Arimitsu, T and Bettencourt, L and Boyanovsky, D and Buchholz, D and Chen, LY and others},
+  journal={Thermal Field Theories},
+  pages={429}
+}
+
+@inproceedings{bettencourtrole,
+  title={THE ROLE OF LOCAL DEFECTS ON PHASE TRANSITIONS IN THE EARLY UNIVERSE INTERACTING COSMIC STRINGS},
+  author={Bettencourt, LMA},
+  booktitle={BANFF I CAP WORKSHOP},
+  pages={364}
+}
+
+@article{smoreda2014scaling,
+  title={The scaling of human interactions with city size},
+  author={Smoreda, Zbigniew and West, Geoffrey B and Ratti, Carlo and Schl{\"a}pfer, Markus and Bettencourt, Lu{\'\i}s MA and Grauwin, S{\'e}bastian and Raschke, Mathias and Claxton, Rob},
+  year={2014}
+}
+
+@phdthesis{bettencourt1996symmetry,
+  title={Symmetry-breaking Phase Transitions in the Early Universe},
+  author={Bettencourt, Luis Miguel Almeida},
+  year={1996},
+  school={University of London 1996.}
+}
+
+@article{bettencourt2011grandes,
+  title={Grandes urbes: conseguir m{\'a}s con menos: a medidad que crecen, las ciudades aumentan su productividad y eficiencia},
+  author={Bettencourt, Lu{\'\i}s MA and West, Geoffrey B},
+  journal={Investigaci{\'o}n y ciencia},
+  number={422},
+  pages={28--29},
+  year={2011},
+  publisher={Prensa Cient{\'\i}fica}
+}
+
+@article{shutters2018urban,
+  title={Urban occupational structures as information networks: The effect on network density of increasing number of occupations},
+  author={Shutters, Shade T and Lobo, Jos{\'e} and Muneepeerakul, Rachata and Strumsky, Deborah and Mellander, Charlotta and Brachert, Matthias and Farinha, Teresa and Bettencourt, Luis MA},
+  journal={PLoS One},
+  volume={13},
+  number={5},
+  pages={e0196915},
+  year={2018},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+
+@article{bettencourt2003stochastic,
+  title={Stochastic Field evolution of disoriented chiral condensates},
+  author={Bettencourt, Lui{\'{}} s MA},
+  journal={Nuclear Physics B (Proceedings Supplements)},
+  volume={119},
+  pages={574--576},
+  year={2003},
+  publisher={Elsevier BV}
+}
+
+@incollection{bettencourt2018complex,
+  title={Complex systems modeling of urban development: Understanding the determinants of health and growth across scales},
+  author={Bettencourt, Lu{\'\i}s MA},
+  booktitle={Integrating human health into urban and transport planning: A framework},
+  pages={173--197},
+  year={2018},
+  publisher={Springer International Publishing Cham}
+}
+
+@article{brelsford2018toward,
+  title={Toward cities without slums: Topology and the spatial evolution of neighborhoods},
+  author={Brelsford, Christa and Martin, Taylor and Hand, Joe and Bettencourt, Lu{\'\i}s MA},
+  journal={Science advances},
+  volume={4},
+  number={8},
+  pages={eaar4644},
+  year={2018},
+  publisher={American Association for the Advancement of Science}
+}
+
+@article{sahasranaman2019urban,
+  title={Urban geography and scaling of contemporary Indian cities},
+  author={Sahasranaman, Anand and Bettencourt, Lu{\'\i}s MA},
+  journal={Journal of the Royal Society Interface},
+  volume={16},
+  number={152},
+  pages={20180758},
+  year={2019},
+  publisher={The Royal Society}
+}
+
+@incollection{batty2018understanding,
+  title={Understanding coupled urban-natural dynamics as the key to sustainability: the example of the galapagos},
+  author={Batty, Michael and Bettencourt, Lu{\'\i}s MA and Kirley, Michael},
+  booktitle={Urban Galapagos: Transition to sustainability in complex adaptive systems},
+  pages={23--41},
+  year={2018},
+  publisher={Springer International Publishing Cham}
+}
+
+@incollection{bettencourt2018critical,
+  title={Critical paths to sustainability: the research challenge from island urban systems},
+  author={Bettencourt, Lu{\'\i}s MA},
+  booktitle={Urban Galapagos: Transition to Sustainability in Complex Adaptive Systems},
+  pages={155--160},
+  year={2018},
+  publisher={Springer International Publishing Cham}
+}
+
+@article{zund2018growth,
+  title={Growth and urban development in prefecture-level China},
+  author={Z{\"u}nd, Daniel and Bettencourt, Lu{\'\i}s},
+  journal={Mansueto Institute for Urban Innovation Research Paper},
+  number={1},
+  year={2018}
+}
+
+@article{hanson2019urban,
+  title={Urban form, infrastructure and spatial organisation in the Roman Empire},
+  author={Hanson, John W and Ortman, Scott G and Bettencourt, Lu{\'\i}s MA and Mazur, Liam C},
+  journal={antiquity},
+  volume={93},
+  number={369},
+  pages={702--718},
+  year={2019},
+  publisher={Cambridge University Press}
+}
+
+@article{sasik1999thermal,
+  title={Thermal vortex dynamics in a two-dimensional condensate},
+  author={Sasik, R and Bettencourt, Luis and Habib, Salman},
+  journal={arXiv preprint cond-mat/9907501},
+  year={1999}
+}
+
+@article{sahasranaman2021economic,
+  title={Economic geography and the scaling of urban and regional income in India},
+  author={Sahasranaman, Anand and Bettencourt, Lu{\'\i}s MA},
+  journal={Environment and Planning B: Urban Analytics and City Science},
+  volume={48},
+  number={3},
+  pages={540--554},
+  year={2021},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+@article{bettencourt2019designing,
+  title={Designing for complexity: The challenge to spatial design from sustainable human development in cities},
+  author={Bettencourt, Lu{\'\i}s MA},
+  journal={Technology| Architecture+ Design},
+  volume={3},
+  number={1},
+  pages={24--32},
+  year={2019},
+  publisher={Routledge}
+}
+
+@incollection{zund2021street,
+  title={Street view imaging for automated assessments of urban infrastructure and services},
+  author={Z{\"u}nd, Daniel and Bettencourt, Lu{\'\i}s MA},
+  booktitle={Urban informatics},
+  pages={29--40},
+  year={2021},
+  publisher={Springer Singapore Singapore}
+}
+
+@article{bettencourt2019towards,
+  title={Towards a statistical mechanics of cities},
+  author={Bettencourt, Lu{\'\i}s MA},
+  journal={Comptes Rendus. Physique},
+  volume={20},
+  number={4},
+  pages={308--318},
+  year={2019}
+}
+
+@article{lobo2022scaling,
+  title={Scaling of hunter-gatherer camp size and human sociality},
+  author={Lobo, Jos{\'e} and Whitelaw, Todd and Bettencourt, Lu{\'\i}s MA and Wiessner, Polly and Smith, Michael E and Ortman, Scott},
+  journal={Current anthropology},
+  volume={63},
+  number={1},
+  pages={68--94},
+  year={2022},
+  publisher={The University of Chicago Press Chicago, IL}
+}
+
+@article{lobo2020settlement,
+  title={Settlement scaling theory: Bridging the study of ancient and contemporary urban systems},
+  author={Lobo, Jos{\'e} and Bettencourt, Luis MA and Smith, Michael E and Ortman, Scott},
+  journal={Urban Studies},
+  volume={57},
+  number={4},
+  pages={731--747},
+  year={2020},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+@article{gintautasidentification,
+  title={IDENTIFICATION OF FUNCTIONAL INFORMATION SUBGRAPHS IN COMPLEX NETWORKS},
+  author={Gintautas, Vadas and Bettencourt, Lu{\'\i}s MA and Ham, Michael I}
+}
+
+@incollection{bettencourt2021complex,
+  title={Complex networks and fundamental urban processes},
+  author={Bettencourt, Lu{\'\i}s MA},
+  booktitle={Handbook of cities and networks},
+  pages={41--61},
+  year={2021},
+  publisher={Edward Elgar Publishing}
+}
+
+@article{bettencourt2019quantitative,
+  title={Quantitative methods for the comparative analysis of cities in history},
+  author={Bettencourt, Lu{\'\i}s MA and Lobo, Jos{\'e}},
+  journal={Frontiers in Digital Humanities},
+  volume={6},
+  pages={17},
+  year={2019},
+  publisher={Frontiers Media SA}
+}
+
+@article{romero2019urban,
+  title={Urban electrification: Knowledge pathway toward an integrated research and development agenda},
+  author={Romero Lankao, Patricia and Wilson, Alana and Sperling, Joshua and Miller, Clark and Zimny-Schmitt, Daniel and Bettencourt, Luis and Wood, Eric and Young, Stanley and Muratori, Matteo and Arent, Doug and others},
+  year={2019}
+}
+
+@article{zund2019growth,
+  title={Growth and development in prefecture-level cities in China},
+  author={Z{\"u}nd, Daniel and Bettencourt, Lu{\'\i}s MA},
+  journal={PloS one},
+  volume={14},
+  number={9},
+  pages={e0221017},
+  year={2019},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+
+@article{bettencourt2019life,
+  title={Life Between the City and the Village: Comparative Analysis of Service Access in Indian Urban Slums},
+  author={Bettencourt, Luis and Sahasranaman, Anand},
+  journal={Mansueto Institute for Urban Innovation Research Paper},
+  number={11},
+  year={2019}
+}
+
+@article{romeroknowledge,
+  title={Knowledge Pathway Towards an Integrated Research and Development Agenda White Paper},
+  author={Romero-Lankao, Paty and Wilson, Alana and Sperling, Joshua and Miller, Clark and Zimny-Schmitt, Daniel and Bettencourt, Luis and Wood, Eric and Young, Stan and Muratori, Matteo and Arent, Doug and others}
+}
+
+@article{sahasranaman2019life,
+  title={Life between the city and the village: comparative analysis of service access in Indian urban slums},
+  author={Sahasranaman, Anand and Bettencourt, Lu{\'\i}s},
+  journal={arXiv preprint arXiv:1909.05728},
+  year={2019}
+}
+
+@article{bettencourt2020interpretation,
+  title={The interpretation of urban scaling analysis in time},
+  author={Bettencourt, Lu{\'\i}s MA and Yang, Vicky Chuqiao and Lobo, Jos{\'e} and Kempes, Christopher P and Rybski, Diego and Hamilton, Marcus J},
+  journal={Journal of the Royal Society Interface},
+  volume={17},
+  number={163},
+  pages={20190846},
+  year={2020},
+  publisher={The Royal Society}
+}
+
+@article{lobo2019graduate,
+  title={Graduate education for a new sustainable urban systems science: Designing a new PhD curriculum integrating sustainability science and urban science},
+  author={Lobo, Jos{\'e} and Alberti, Marina and Allen-Dumas, Melissa and Bettencourt, Luis and Beukes, Anni and Neal, Zachary P and Pfeiffer, Deirdre and Shutters, Shade T and Smith, Michael E and Stokes, Eleanor C and others},
+  journal={Mansueto Institute for Urban Innovation Research Paper},
+  number={14},
+  year={2019}
+}
+
+@article{bettencourt2020demography,
+  title={Demography and the emergence of universal patterns in urban systems},
+  author={Bettencourt, Lu{\'\i}s MA and Z{\"u}nd, Daniel},
+  journal={Nature communications},
+  volume={11},
+  number={1},
+  pages={4584},
+  year={2020},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{schertz2021neighborhood,
+  title={Neighborhood street activity and greenspace usage uniquely contribute to predicting crime},
+  author={Schertz, Kathryn E and Saxon, James and Cardenas-Iniguez, Carlos and Bettencourt, Lu{\'\i}s MA and Ding, Yi and Hoffmann, Henry and Berman, Marc G},
+  journal={Npj Urban Sustainability},
+  volume={1},
+  number={1},
+  pages={19},
+  year={2021},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{bettencourtkeynote,
+  title={Keynote Address with Lu{\'\i}s Bettencourt, Ph. D.},
+  author={Bettencourt, Lu{\'\i}s}
+}
+
+@article{lobo2020urban,
+  title={Urban science: Integrated theory from the first cities to sustainable metropolises},
+  author={Lobo, Jos{\'e} and Alberti, Marina and Allen-Dumas, Melissa and Arcaute, Elsa and Barthelemy, Marc and Bojorquez Tapia, Luis A and Brail, Shauna and Bettencourt, Luis and Beukes, Anni and Chen, Wei-Qiang and others},
+  year={2020}
+}
+
+@article{bettencourt2020quantitative,
+  title={The quantitative relation between national levels of urbanization and economic growth},
+  author={Bettencourt, Luis},
+  journal={Mansueto Institute for Urban Innovation Research Paper},
+  number={18},
+  year={2020}
+}
+
+@article{cesaretti2020increasing,
+  title={Increasing returns to scale in the towns of early Tudor England},
+  author={Cesaretti, Rudolf and Lobo, Jos{\'e} and Bettencourt, Luis MA and Smith, Michael E},
+  journal={Historical Methods: A Journal of Quantitative and Interdisciplinary History},
+  volume={53},
+  number={3},
+  pages={147--165},
+  year={2020},
+  publisher={Routledge}
+}
+
+@article{stier2020covid,
+  title={COVID-19 attack rate increases with city size},
+  author={Stier, Andrew J and Berman, Marc G and Bettencourt, Luis},
+  journal={arXiv preprint arXiv:2003.10376},
+  year={2020}
+}
+
+@article{cintron2009estimation,
+  title={The estimation of the effective reproductive number from disease outbreak data},
+  author={Cintr{\'o}n-Arias, Ariel and Castillo-Ch{\'a}vez, Carlos and Bettencourt, Lu{\i}s MA and Lloyd, Alun L and Banks, Harvey Thomas},
+  journal={Math Biosci Eng},
+  volume={6},
+  number={2},
+  pages={261--282},
+  year={2009}
+}
+
+@article{bettencourt2015complexity,
+  title={The complexity of cities and the problem of urban design},
+  author={Bettencourt, LM},
+  journal={A city is not a tree:},
+  pages={45--61},
+  year={2015}
+}
+
+@article{bettencourt2011structure,
+  title={The structure and evolution of sustainability science},
+  author={Bettencourt, LM and Kaur, Jasleen},
+  journal={Proceedings of the National Academy of Sciences of the United States of America},
+  volume={108},
+  number={49},
+  year={2011}
+}
+
+@article{bettencourt2001vortex,
+  title={A vortex description of the first-order phase transition in type-I superconductors},
+  author={Bettencourt, Luis and Stephens, Greg J},
+  journal={arXiv preprint cond-mat/0108125},
+  year={2001}
+}
+
+@article{bettencourt2013kind,
+  title={The kind of problem a city is},
+  author={Bettencourt, Luis},
+  journal={Die Stadt Entschlusseln: Wie Echtzeitdaten Den Urbanismus Verandern: Wie Echtzeitdaten den Urbanismus Verandern},
+  pages={175--187},
+  year={2013},
+  publisher={Birkhauser}
+}
+
+@article{soman2020detecting,
+  title={Detecting informal settlements via topological analysis},
+  author={Soman, S and Nederhood, C and Marchio, N and Yang, A and Beukes, A and Bettencourt, L},
+  journal={Editors},
+  pages={23},
+  year={2020}
+}
+
+@techreport{malani2020adaptive,
+  title={Adaptive control of COVID-19 outbreaks in India: Local, gradual, and trigger-based exit paths from lockdown},
+  author={Malani, Anup and Soman, Satej and Asher, Sam and Novosad, Paul and Imbert, Clement and Tandel, Vaidehi and Agarwal, Anish and Alomar, Abdullah and Sarker, Arnab and Shah, Devavrat and others},
+  year={2020},
+  institution={National Bureau of Economic Research}
+}
+
+@article{press2021chicago,
+  title={ChicagO Multiethnic Prevention and Surveillance Study (COMPASS): increased response rates among african american residents in low socioeconomic status neighborhoods},
+  author={Press, David J and Aschebrook-Kilfoy, Briseis and Lauderdale, Diane and Stepniak, Elizabeth and Gomez, Scarlett Lin and Johnson, Emily Peterson and Gopalakrishnan, Rajan and Smieliauskas, Fabrice and Hedeker, Donald and Bettencourt, Lu{\'\i}s and others},
+  journal={Journal of racial and ethnic health disparities},
+  volume={8},
+  number={1},
+  pages={186--198},
+  year={2021},
+  publisher={Springer International Publishing Cham}
+}
+
+@inproceedings{sheth2020community,
+  title={The Community Human Development Index (CHDI): Localizing Sustainable Development Goals Across Scales},
+  author={Sheth, Suraj and Bettencourt, Lu{\'\i}s MA},
+  booktitle={2020 IEEE Conference on Technologies for Sustainability (SusTech)},
+  pages={1--7},
+  year={2020},
+  organization={IEEE}
+}
+
+@article{brandtner2021creatures,
+  title={Creatures of the state? Metropolitan counties compensated for state inaction in initial US response to COVID-19 pandemic},
+  author={Brandtner, Christof and Bettencourt, Lu{\'\i}s MA and Berman, Marc G and Stier, Andrew J},
+  journal={PloS one},
+  volume={16},
+  number={2},
+  pages={e0246249},
+  year={2021},
+  publisher={Public Library of Science San Francisco, CA USA}
+}
+
+@article{press2020tobacco,
+  title={Tobacco and marijuana use and their association with serum prostate-specific antigen levels among African American men in Chicago},
+  author={Press, David J and Pierce, Brandon and Lauderdale, Diane S and Aschebrook-Kilfoy, Briseis and Gomez, Scarlett Lin and Hedeker, Donald and Wright, Nathaniel E and Fantus, Richard J and Bettencourt, Luis and Ahsan, Habibul and others},
+  journal={Preventive medicine reports},
+  volume={20},
+  pages={101174},
+  year={2020},
+  publisher={Elsevier}
+}
+
+@article{ortman2020archaeology,
+  title={Why archaeology is necessary for a theory of urbanization},
+  author={Ortman, Scott G and Smith, Michael E and Lobo, Jos{\'e} and Bettencourt, Lu{\'\i}s MA},
+  journal={Journal of Urban Archaeology},
+  volume={1},
+  pages={151--167},
+  year={2020},
+  publisher={Brepols Publishers Turnhout, Belgium}
+}
+
+@article{bettencourt2020urban,
+  title={Urban growth and the emergent statistics of cities},
+  author={Bettencourt, Luis MA},
+  journal={Science advances},
+  volume={6},
+  number={34},
+  pages={eaat8812},
+  year={2020},
+  publisher={American Association for the Advancement of Science}
+}
+
+@article{stier2020rethinking,
+  title={Rethinking depression in cities: evidence and theory for lower rates in larger urban areas},
+  author={Stier, Andrew J and Schertz, Kathryn E and Rim, Nak Won and Cardenas-Iniguez, Carlos and Lahey, Benjamin B and Bettencourt, Lu{\'\i}s MA and Berman, Marc G},
+  journal={medRxiv},
+  pages={2020--08},
+  year={2020},
+  publisher={Cold Spring Harbor Laboratory Press}
+}
+
+@article{soman2020worldwide,
+  title={Worldwide detection of informal settlements via topological analysis of crowdsourced digital maps},
+  author={Soman, Satej and Beukes, Anni and Nederhood, Cooper and Marchio, Nicholas and Bettencourt, Lu{\'\i}s MA},
+  journal={ISPRS International Journal of Geo-Information},
+  volume={9},
+  number={11},
+  pages={685},
+  year={2020},
+  publisher={MDPI}
+}
+
+@article{bettencourt2021introduction,
+  title={Introduction to urban science: evidence and theory of cities as complex systems},
+  author={Bettencourt, Lu{\'\i}s MA},
+  year={2021},
+  publisher={MIT press}
+}
+
+@article{bettencourt2020systems,
+  title={Systems architecture for real time epidemiological prediction and control},
+  author={Bettencourt, Luis and Soman, Satej},
+  journal={Mansueto Institute for Urban Innovation Research Paper},
+  number={24},
+  year={2020}
+}
+
+@article{berman2020covid,
+  title={COVID-19 attack rate increases with city size},
+  author={Berman, Marc G and Bettencourt, Luis MA and Stier, Andrew J},
+  journal={https://www. medrxiv. org/content/10.1101/2020.03. 22.20041004 v2},
+  year={2020}
+}
+
+@techreport{bettencourt2011general,
+  title={General critical properties of the dynamics of scientific discovery},
+  author={Bettencourt, L and Kaiser, David I},
+  year={2011},
+  institution={Information International Associates, Inc.(IIA)}
+}
+
+@article{sahasranaman2021life,
+  title={Life between the city and the village: Scaling analysis of service access in Indian urban slums},
+  author={Sahasranaman, Anand and Bettencourt, Lu{\'\i}s MA},
+  journal={World Development},
+  volume={142},
+  pages={105435},
+  year={2021},
+  publisher={Pergamon}
+}
+
+@article{bettencourt2013kind,
+  title={The kind of problem a city is: new perspectives on the nature of cities from complex systems theory},
+  author={Bettencourt, Lu{\'\i}s MA},
+  journal={Decoding the City: How Big Data can Change Urbanism; Offenhuber, D., Ratti, C., Eds},
+  pages={168--179},
+  year={2013}
+}
+
+@article{tandel2022infrastructure,
+  title={Infrastructure, enforcement, and COVID-19 in Mumbai slums: A first look},
+  author={Tandel, Vaidehi and Gandhi, Sahil and Patranabis, Shaonlee and Bettencourt, Lu{\'\i}s MA and Malani, Anup},
+  journal={Journal of Regional Science},
+  volume={62},
+  number={3},
+  pages={645--669},
+  year={2022}
+}
+
+@article{tian2021estimating,
+  title={Estimating rooftop solar potential in urban environments: A generalized approach and assessment of the Gal{\'a}pagos Islands},
+  author={Tian, Amy and Z{\"u}nd, Daniel and Bettencourt, Lu{\'\i}s MA},
+  journal={Frontiers in Sustainable Cities},
+  volume={3},
+  pages={632109},
+  year={2021},
+  publisher={Frontiers Media SA}
+}
+
+@article{stier2021early,
+  title={Early pandemic COVID-19 case growth rates increase with city size},
+  author={Stier, Andrew J and Berman, Marc G and Bettencourt, Lu{\'\i}s MA},
+  journal={npj Urban Sustainability},
+  volume={1},
+  number={1},
+  pages={31},
+  year={2021},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{bettencourttransformation,
+  title={La transformation num{\'e}rique des m{\'e}tropoles},
+  author={Bettencourt, Lu{\'\i}s MA and Metropolis, Observatoire}
+}
+
+@article{bettencourt2019digital,
+  title={The digital transformation of metropolises},
+  author={Bettencourt, Lu{\'\i}s MA},
+  journal={Metropolis Observatory},
+  year={2019}
+}
+
+@article{stier2021evidence,
+  title={Evidence and theory for lower rates of depression in larger US urban areas},
+  author={Stier, Andrew J and Schertz, Kathryn E and Rim, Nak Won and Cardenas-Iniguez, Carlos and Lahey, Benjamin B and Bettencourt, Lu{\'\i}s MA and Berman, Marc G},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={118},
+  number={31},
+  pages={e2022472118},
+  year={2021},
+  publisher={National Academy of Sciences}
+}
+
+@article{sheth2021human,
+  title={Human development in US cities and neighborhoods},
+  author={Sheth, Suraj and Bettencourt, Lu{\'\i}s},
+  journal={Mansueto Institute for Urban Innovation Research paper},
+  volume={31},
+  year={2021}
+}
+
+@incollection{bettencourt2021new,
+  title={New Empirically Driven Approaches to Inclusive Human Development in Cities},
+  author={Bettencourt, Lu{\'\i}s MA},
+  booktitle={Sustainable Development Goals and Indian Cities},
+  pages={119--136},
+  year={2021},
+  publisher={Routledge India}
+}
+
+@inproceedings{borner2009knowledge,
+  title={Knowledge management and visualization tools in support of discovery},
+  author={B{\"o}rner, Katy and Bettencourt, Lu{\'\i}s MA and Gerstein, Mark and Uzzo, Stephen M},
+  booktitle={NSF Workshop Report, Indiana University, Los Alamos National Laboratory, Yale University, and New York Hall of Science},
+  year={2009}
+}
+
+@misc{bettencourt2015formation,
+  title={Formation of Scientific Fields as a Universal Topological Transition. arXiv. org},
+  author={Bettencourt, Luis MA and Kaiser, David I},
+  year={2015},
+  publisher={April}
+}
+
+@misc{schl2014scaling,
+  title={The Scaling of Human Interactions with City Size},
+  author={Schl, Markus and Bettencourt, Luis MA and Grauwin, Sebastian and Raschke, Mathias and Claxton, Rob and Smoreda, Zbigniew and West, Geoffrey B and Ratti, Carlo},
+  year={2014},
+  publisher={July}
+}
+
+@misc{bettencourt2015cidades,
+  title={Cidades como sistemas complexos},
+  author={BETTENCOURT, Lu{\'\i}s MA},
+  journal={FURTADO, BA; SAKOWSKI, PAM; T{\'O}VOLLI, MH Modelagem de Sistemas Complexos para Pol{\'\i}ticas P{\'u}blicas},
+  year={2015},
+  publisher={IPEA}
+}
+
+@article{luis212267bettencourt,
+  title={Bettencourt: From Boom to Bust and Back Again: the Complex Dynamics of Trends and Fasions},
+  author={Luis, MA},
+  journal={MIT CIP-3331at Xiu: COND-MAT},
+  volume={212267},
+  pages={V1}
+}
+
+@article{bettencourt1998time,
+  title={Time evolution of correlation functions in non-equilibrium field theories},
+  author={Bettencourt, Lu{\i}́s MA and Wetterich, Christof},
+  journal={Physics Letters B},
+  volume={430},
+  number={1-2},
+  pages={140--150},
+  year={1998},
+  publisher={Elsevier}
+}
+
+@article{bettencourt2017energy,
+  title={Energy and Environmental Drivers of Stress and Conflict in Multi-scale Models of Human Social Behavior},
+  author={Bettencourt, Luis M},
+  year={2017}
+}
+
+@article{bettencourt2007growth,
+  title={Growth, innovation, scaling, and the pace of life in cities},
+  author={Bettencourt, Lu{\'\i}s MA and Lobo, Jos{\'e} and Helbing, Dirk and K{\"u}hnert, Christian and West, Geoffrey B},
+  journal={Proceedings of the national academy of sciences},
+  volume={104},
+  number={17},
+  pages={7301--7306},
+  year={2007},
+  publisher={National Academy of Sciences}
+}
+
+@article{bettencourt2015industrial,
+  title={Industrial Ecology},
+  author={Bettencourt, Lu{\i}s MA and Brelsford, Christa},
+  year={2015}
+}
+
+@incollection{de2018scales,
+  title={Scales and transformative change: transitions in the Galapagos},
+  author={de Haan, Fjalar J and Quiroga Ferri, Diego and Walsh, Stephen J and Bettencourt, Lu{\i}s MA},
+  booktitle={Urban Galapagos: Transition to Sustainability in Complex Adaptive Systems},
+  pages={43--58},
+  year={2018},
+  publisher={Springer International Publishing Cham}
+}
+
+@article{bettencourt104jose,
+  title={Jos{\'e} Lobo, Dirk Helbing, Christian K{\"u}hnert \& Geoffrey B. West. 2007. Growth, innovation, scaling, and the pace of life in cities},
+  author={Bettencourt, Lu{\'\i}s MA},
+  journal={Proceedings of the National Academy of Sciences of the United States of America (PNAS)},
+  volume={104},
+  number={17},
+  pages={7301}
+}
+
+@article{youn13west,
+  title={West 2016 Scaling and Universality in Urban Economic Diversification},
+  author={Youn, Hyejin and Bettencourt, Lu{\'\i}s MA and Lobo, Jos{\'e} and Strumsky, Deborah and Samaniego, Horacio and Geoffrey, B},
+  journal={Journal of the Royal Society Interface},
+  volume={13},
+  number={114},
+  pages={20150937}
+}
+
+@article{schlapfer11west,
+  title={West, and Carlo Ratti. 2014.“The scaling of human interactions with city size.”},
+  author={Schl{\"a}pfer, Markus and Bettencourt, Lu{\'\i}s MA and Grauwin, S{\'e}bastian and Raschke, Mathias and Claxton, Rob and Smoreda, Zbigniew and Geoffrey, B},
+  journal={Journal of the Royal Society Interface},
+  volume={11},
+  number={98},
+  pages={20130789}
+}
+
+@article{luis2014uses,
+  title={The Uses of big Data in Cities},
+  author={Lu{\i}s, MA Bettencourt},
+  journal={Big Data},
+  volume={2},
+  pages={12--22},
+  year={2014}
+}
+
+@article{bettencourt5loboj,
+  title={LOBOJ., STRUMSKY, D., WEST, G. B.(2010),'Urban scaling and its devia tions: revealing the structure of wealth, innovation and crime across cities},
+  author={Bettencourt, L},
+  journal={PLoS ONE},
+  volume={5},
+  pages={13541}
+}
+
+@article{bettencourt23west,
+  title={West. 2014.“Bigger Cities Do More with Less.”},
+  author={Bettencourt, Luis MA and Geoffrey, B},
+  journal={Scientific American Mind},
+  volume={23},
+  number={1},
+  pages={106--108}
+}
+
+@article{bettencourt104west,
+  title={West. 2007. Growth, innovation, scaling, and the pace of life in cities},
+  author={Bettencourt, Luis MA and Lobo, Jose and Helbing, Dirk and Kuhnert, Christian and Geoffrey, B},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={104},
+  number={17},
+  pages={7301}
+}
+
+@article{kemp2022statistical,
+  title={Statistical dynamics of wealth inequality in stochastic models of growth},
+  author={Kemp, Jordan T and Bettencourt, Lu{\'\i}s MA},
+  journal={Physica A: Statistical Mechanics and its Applications},
+  volume={607},
+  pages={128180},
+  year={2022},
+  publisher={North-Holland}
+}
+
+@article{lobo2021convergence,
+  title={A convergence research perspective on graduate education for sustainable urban systems science},
+  author={Lobo, Jos{\'e} and Alberti, Marina and Allen-Dumas, Melissa and Bettencourt, Lu{\'\i}s MA and Beukes, Anni and Boj{\'o}rquez Tapia, Luis A and Chen, Wei-Qiang and Dodge, Anne and Neal, Zachary and Perreira, Anna and others},
+  journal={npj Urban Sustainability},
+  volume={1},
+  number={1},
+  pages={39},
+  year={2021},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{stier2022reply,
+  title={Reply to Huth et al.: Cities are defined by their spatially aggregated socioeconomic networks},
+  author={Stier, Andrew J and Schertz, Kathryn E and Rim, Nak Won and Cardenas-Iniguez, Carlos and Lahey, Benjamin B and Bettencourt, Lu{\'\i}s MA and Berman, Marc G},
+  journal={Proceedings of the National Academy of Sciences},
+  volume={119},
+  number={2},
+  pages={e2119313118},
+  year={2022},
+  publisher={National Academy of Sciences}
+}
+
+@article{elmqvist2021urbanization,
+  title={Urbanization in and for the Anthropocene},
+  author={Elmqvist, Thomas and Andersson, Erik and McPhearson, Timon and Bai, Xuemei and Bettencourt, Luis and Brondizio, Eduardo and Colding, Johan and Daily, Gretchen and Folke, Carl and Grimm, N and others},
+  journal={Npj Urban Sustainability},
+  volume={1},
+  number={1},
+  pages={6},
+  year={2021},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{taajamaa2022seven,
+  title={Seven steps to strategic SDG sensemaking for cities},
+  author={Taajamaa, Ville and Joensuu, Minna and Karanian, Barbara and Bettencourt, Luis},
+  journal={Administrative Sciences},
+  volume={12},
+  number={1},
+  pages={33},
+  year={2022},
+  publisher={MDPI}
+}
+
+@article{bettencourt2017emerging,
+  title={An Emerging Science and Cities and its significance for Sustainable Development-Luis Bettencourt (Video)},
+  author={Bettencourt, Luis},
+  year={2017},
+  publisher={Ahmedabad University, Ahmedabad.}
+}
+
+@article{roza2021violencia,
+  title={Violencia sexual y basada en g{\'e}nero: mapa de ruta para su prevenci{\'o}n y atenci{\'o}n en Am{\'e}rica Latina y el Caribe},
+  author={Roza, Vivian and Mart{\'\i}n, Carmen},
+  journal={Banco Interamericano de Desarrollo.[Internet]},
+  year={2021}
+}
+
+@incollection{bettencourt2023internet,
+  title={Why the internet must become more like a city},
+  author={Bettencourt, Lu{\'\i}s MA},
+  booktitle={The Crisis of Democracy in the Age of Cities},
+  pages={148--166},
+  year={2023},
+  publisher={Edward Elgar Publishing}
+}
+
+@article{kaufmann2022scaling,
+  title={Scaling of urban amenities: generative statistics and implications for urban planning},
+  author={Kaufmann, Talia and Radaelli, Laura and Bettencourt, Luis MA and Shmueli, Erez},
+  journal={EPJ Data Science},
+  volume={11},
+  number={1},
+  pages={50},
+  year={2022},
+  publisher={Springer Berlin Heidelberg}
+}
+
+@article{kemp2022bayesian,
+  title={The Bayesian Origins of Growth Rates in Stochastic Environments},
+  author={Kemp, Jordan T and Bettencourt, Lu{\'\i}s},
+  journal={arXiv preprint arXiv:2209.09492},
+  year={2022}
+}
+
+@techreport{kotamarthi2021america,
+  title={America Resilient Climate Conference},
+  author={Kotamarthi, Rao and Negri, Cristina and Brannegan, David K and Ohland, Emily C and Wall, Thomas A and Benjamin, Georges C and Bettencourt, Luis and Wuebbles, Donald J and Hayhoe, Katharine and Ebi, Kristie and others},
+  year={2021},
+  institution={Argonne National Lab.(ANL), Argonne, IL (United States)}
+}
+
+@inproceedings{sharma2022climate,
+  title={Climate Action in Global Cities},
+  author={Sharma, Ashish and Kotamarthi, Veerabhadra Rao and Bettencourt, Luis and Wuebbles, Donald J},
+  booktitle={Fall Meeting 2022},
+  year={2022},
+  organization={AGU}
+}
+
+@article{strumsky2023agglomeration,
+  title={Agglomeration effects as spatially embedded social interactions: identifying urban scaling beyond metropolitan areas},
+  author={Strumsky, Deborah and Bettencourt, Luis and Lobo, Jos{\'e}},
+  journal={Environment and Planning B: Urban Analytics and City Science},
+  volume={50},
+  number={7},
+  pages={1964--1980},
+  year={2023},
+  publisher={Sage Publications Sage UK: London, England}
+}
+
+@article{sheth2023community,
+  title={The community human development index as a precision vulnerability metric and risk indicator},
+  author={Sheth, Suraj and Bettencourt, Luis},
+  journal={Mansueto Institute for Urban Innovation Research Paper},
+  volume={35},
+  year={2023}
+}
+
+@misc{taajamaa2022seven,
+  title={Seven Steps to Strategic SDG Sensemaking for Cities. Administrative Sciences 12: 33},
+  author={Taajamaa, Ville and Joensuu, Minna and Karanian, Barbara and Bettencourt, Luis},
+  year={2022},
+  publisher={s Note: MDPI stays neutral with regard to jurisdictional claims in published~…}
+}
+
+@article{sheth2023community,
+  title={Community Human Development in US Counties: Analysis of the Divergence in Local Life Expectancies Over Time},
+  author={Sheth, Suraj and Bettencourt, Luis},
+  journal={Mansueto Institute for Urban Innovation Research Paper},
+  volume={37},
+  year={2023}
+}
+
+@article{stier2023city,
+  title={City population, majority group size, and residential segregation drive implicit racial biases in us cities},
+  author={Stier, Andrew and Sajjadi, Sina and Karimi, Fariba and Bettencourt, Luis and Berman, Marc G},
+  journal={SSRN Electronic Journal},
+  year={2023},
+  publisher={NSF-PAR}
+}
+
+@article{stier2022effects,
+  title={Effects of racial segregation on economic productivity in US cities},
+  author={Stier, Andrew J and Sajjadi, Sina and Bettencourt, Lu{\i}s and Karimi, Fariba and Berman, Marc G},
+  journal={arXiv preprint arXiv:2212.03147},
+  year={2022}
+}
+
+@article{wixe2023neighborhoods,
+  title={Neighborhoods and COVID-19 Fatalities: Evidence from a full population study in Sweden},
+  author={Wixe, Sofia and Lobo, Jose and Mellander, Charlotta and Bettencourt, Luis},
+  year={2023}
+}
+
+@article{sheth2023measuring,
+  title={Measuring health and human development in cities and neighborhoods in the United States},
+  author={Sheth, Suraj K and Bettencourt, Lu{\'\i}s MA},
+  journal={npj Urban Sustainability},
+  volume={3},
+  number={1},
+  pages={7},
+  year={2023},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{kemp2023learning,
+  title={Learning increases growth and reduces inequality in shared noisy environments},
+  author={Kemp, Jordan T and Bettencourt, Lu{\'\i}s MA},
+  journal={PNAS nexus},
+  volume={2},
+  number={4},
+  pages={pgad093},
+  year={2023},
+  publisher={Oxford University Press US}
+}
+
+@inproceedings{kemp2023bayesian,
+  title={Bayesian origins of growth, cooperation, and inequality in populations of learning agents},
+  author={Kemp, Jordan and Bettencourt, Luis},
+  booktitle={APS March Meeting Abstracts},
+  volume={2023},
+  pages={T10--011},
+  year={2023}
+}
+
+@inproceedings{sheth2023community,
+  title={The Community Human Development Index (CHDI) as a Precision Public Health Vulnerability Metric and Risk Indicator for Predictive Analytics},
+  author={Sheth, Suraj and Bettencourt, Lu{\'\i}s},
+  booktitle={2023 IEEE Conference on Technologies for Sustainability (SusTech)},
+  pages={25--32},
+  year={2023},
+  organization={IEEE}
+}
+
+@inproceedings{sheth2023precision,
+  title={A Precision Public Health Study on the Divergence of Life Expectancies Over Time in United States Counties},
+  author={Sheth, Suraj and Bettencourt, Lu{\'\i}s},
+  booktitle={2023 IEEE Conference on Technologies for Sustainability (SusTech)},
+  pages={33--40},
+  year={2023},
+  organization={IEEE}
+}
+
+@article{lobo2023integration,
+  title={Integration of urban science and urban climate adaptation research: opportunities to advance climate action},
+  author={Lobo, Jos{\'e} and Aggarwal, Rimjhim M and Alberti, Marina and Allen-Dumas, Melissa and Bettencourt, Lu{\'\i}s MA and Boone, Christopher and Brelsford, Christa and Broto, Vanesa Cast{\'a}n and Eakin, Hallie and Bagchi-Sen, Sharmistha and others},
+  journal={Npj Urban Sustainability},
+  volume={3},
+  number={1},
+  pages={32},
+  year={2023},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{stier2020covid,
+  title={COVID-19 attack rate increases with city size. preprint},
+  author={Stier, Andrew J and Berman, Marc G and Bettencourt, Luis MA},
+  journal={Epidemiology, March},
+  year={2020}
+}
+
+@article{bettencourtbigger,
+  title={Bigger, Denser, Faster},
+  author={Bettencourt, Luis MA}
+}
+
+@article{kemp2024information,
+  title={Information synergy maximizes the growth rate of heterogeneous groups},
+  author={Kemp, Jordan T and Kline, Adam G and Bettencourt, Lu{\'\i}s MA},
+  journal={PNAS nexus},
+  volume={3},
+  number={2},
+  pages={pgae072},
+  year={2024},
+  publisher={Oxford University Press US}
+}
+
+@article{bettencourt2023street,
+  title={Street access, informality and development: A block level analysis across all of sub-Saharan Africa},
+  author={Bettencourt, Luis and Marchio, Nicholas},
+  journal={arXiv preprint arXiv:2307.16328},
+  year={2023}
+}
+
+@article{schertz2019environmental,
+  title={Environmental and Social Engagement Predicting Crime},
+  author={Schertz, Kathryn and Berman, Marc and Cardenas-Iniguez, Carlos and Saxon, James and Bettencourt, Luis},
+  year={2019},
+  publisher={OSF}
+}
+
+@inproceedings{sharma2023climate,
+  title={Climate Action in Global Cities-Part 2},
+  author={Sharma, Ashish and Kotamarthi, Veerabhadra Rao and Bettencourt, Luis},
+  booktitle={AGU23},
+  year={2023},
+  organization={AGU}
+}
+
+@article{ortman2024transport,
+  title={Transport costs and economic change in Roman Britain},
+  author={Ortman, Scott and Bulik, Olivia and Wiseman, Rob and Lobo, Jose and Bettencourt, Luis and Lodwick, Lisa},
+  journal={European Journal of Archaeology},
+  volume={27},
+  number={1},
+  pages={23--46},
+  year={2024},
+  publisher={Cambridge University Press}
+}
+
+@inproceedings{bettencourt2024scaling,
+  title={Scaling properties of cities},
+  author={Bettencourt, Luis},
+  booktitle={APS March Meeting Abstracts},
+  volume={2024},
+  pages={T56--004},
+  year={2024}
+}
+
+@article{zhang2024counterfactual,
+  title={Counterfactual mobility network embedding reveals prevalent accessibility gaps in US cities},
+  author={Zhang, Yunke and Xu, Fengli and Chen, Lin and Yuan, Yuan and Evans, James and Bettencourt, Luis and Li, Yong},
+  journal={Humanities and Social Sciences Communications},
+  volume={11},
+  number={1},
+  pages={1--12},
+  year={2024},
+  publisher={Palgrave}
+}
+
+@article{dong2024defining,
+  title={Defining a city—delineating urban areas using cell-phone data},
+  author={Dong, Lei and Duarte, Fabio and Duranton, Gilles and Santi, Paolo and Barthelemy, Marc and Batty, Michael and Bettencourt, Lu{\'\i}s and Goodchild, Michael and Hack, Gary and Liu, Yu and others},
+  journal={Nature Cities},
+  volume={1},
+  number={2},
+  pages={117--125},
+  year={2024},
+  publisher={Nature Publishing Group US New York}
+}
+
+@article{stier2024implicit,
+  title={Implicit racial biases are lower in more populous more diverse and less segregated US cities},
+  author={Stier, Andrew J and Sajjadi, Sina and Karimi, Fariba and Bettencourt, Lu{\'\i}s MA and Berman, Marc G},
+  journal={Nature Communications},
+  volume={15},
+  number={1},
+  pages={961},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{wixe2024evidence,
+  title={Evidence of COVID-19 fatalities in Swedish neighborhoods from a full population study},
+  author={Wixe, Sofia and Lobo, Jos{\'e} and Mellander, Charlotta and Bettencourt, Lu{\'\i}s MA},
+  journal={Scientific reports},
+  volume={14},
+  number={1},
+  pages={2998},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{bettencourt2023emerging,
+  title={Emerging scientific frameworks and tools for sustainable cities},
+  author={Bettencourt, Lu{\'\i}s MA},
+  journal={International Journal on Smart and Sustainable Cities},
+  volume={1},
+  number={02},
+  pages={2371003},
+  year={2023},
+  publisher={World Scientific Publishing Company}
+}
+
+@article{bettencourt2005degeneracy,
+  title={Degeneracy of choice and the spontaneous formation of trends},
+  author={Bettencourt, Lu{\'\i}s МА},
+  year={2005}
+}
+
+@article{bettencourt2024recent,
+  title={Recent achievements and conceptual challenges for urban digital twins},
+  author={Bettencourt, Lu{\'\i}s MA},
+  journal={Nature Computational Science},
+  volume={4},
+  number={3},
+  pages={150--153},
+  year={2024},
+  publisher={Nature Publishing Group US New York}
+}
+
+@article{brattebo2015industrial,
+  title={Industrial Ecology},
+  author={Bratteb{\o}, Helge and Lifset, Reid and Dijkema, Gerard PJ and Xu, Ming and Derrible, Sybil and Bettencourt, Lu{\i}s MA and Brelsford, Christa and Nikolic, Igor and Pandit, Arka and Lu, Zhongming and others},
+  journal={The Official Journal of the International Society for Industrial Ecology (ISIE)},
+  volume={19},
+  number={2},
+  year={2015}
+}
+
+@misc{bettencourt2022introduction,
+  title={Introduction to Urban Science: Evidence and Theory of Cities as Complex Systems},
+  author={Bettencourt, Lu{\'\i}s MA},
+  year={2022}
+}
+
+@article{bettencourt2019demography,
+  title={Demography, Symmetry and the Emergence of Universal Patterns in Urban Systems},
+  author={Bettencourt, Luis and Z{\"u}nd, Daniel},
+  journal={Mansueto Institute for Urban Innovation Research Paper},
+  number={15},
+  year={2019}
+}
+
+@article{ortman2024identification,
+  title={Identification and measurement of intensive economic growth in a Roman imperial province},
+  author={Ortman, Scott G and Lobo, Jos{\'e} and Lodwick, Lisa and Wiseman, Rob and Bulik, Olivia and Harbison, Victoria and Bettencourt, Lu{\'\i}s MA},
+  journal={Science Advances},
+  volume={10},
+  number={27},
+  pages={eadk5517},
+  year={2024},
+  publisher={American Association for the Advancement of Science}
+}
+
+@article{brelsford2019optimal,
+  title={Optimal reblocking as a practical tool for neighborhood development},
+  author={Brelsford, Christa and Martin, Taylor and Bettencourt, Lu{\'\i}s MA},
+  journal={Environment and Planning B: Urban Analytics and City Science},
+  volume={46},
+  number={2},
+  pages={303--321},
+  year={2019},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+@article{bettencourtmaximum,
+  title={Maximum Power as a Physical Principle of Evolution},
+  author={Bettencourt, Lu{\'\i}s MA}
+}
+
+@incollection{bettencourt2024governing,
+  title={GOVERNING WITH COMPLEXITY},
+  author={Bettencourt, Lu{\'\i}s MA},
+  booktitle={PETER HO’S MENAGERIE},
+  pages={186--199},
+  year={2024}
+}
+
+@incollection{sahasranaman2024scaling,
+  title={Scaling in Indian cities1},
+  author={Sahasranaman, Anand and Bettencourt, Lu{\'\i}s MA},
+  booktitle={Urban Scaling},
+  pages={118--125},
+  year={2024},
+  publisher={Routledge}
+}
+
+@article{sahasranaman2024urbanization,
+  title={Urbanization, economic development, and income distribution dynamics in India},
+  author={Sahasranaman, Anand and Kumar, Nishanth and Bettencourt, Luis},
+  journal={arXiv preprint arXiv:2410.04737},
+  year={2024}
+}
+
+@misc{helbing2024co,
+  title={Co-creating the future: participatory cities and digital governance},
+  author={Helbing, Dirk and Mahajan, Sachit and Carpentras, Dino and Menendez, Monica and Pournaras, Evangelos and Thurner, Stefan and Verma, Trivik and Arcaute, Elsa and Batty, Michael and Bettencourt, Luis MA},
+  journal={Philosophical Transactions A},
+  volume={382},
+  number={2285},
+  pages={20240113},
+  year={2024},
+  publisher={The Royal Society}
+}
+
+@inproceedings{sharma2025bridging,
+  title={Bridging Scale Gap and Increasing Resilience in Communities},
+  author={Sharma, Ashish and Kotamarthi, Rao and Bou-Zeid, Elie and Gonzalez, Jorge and Bettencourt, Luis and Jablonowski, Christiane},
+  booktitle={105th AMS Annual Meeting},
+  year={2025},
+  organization={AMS}
+}
+
+@article{lobo2024urban,
+  title={Urban scaling theory: Answers to frequent questions},
+  author={Lobo, Jos{\'e} and Bettencourt, Lu{\'\i}s and Ortman, Scott G},
+  journal={Environment and Planning B: Urban Analytics and City Science},
+  pages={23998083241308418},
+  year={2024},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+@article{lobo2024systematic,
+  title={Systematic Relationship Between Areal Extent and Population for Urban Areas in the USA},
+  author={Lobo, Jose and Ortman, Scott and Bettencourt, Luis},
+  year={2024}
+}
+
+@article{stier2022reply,
+  title={REPLY TO HUTH ET AL.},
+  author={Stier, Andrew J and Schertz, Kathryn E and Rim, Nak Won and Cardenas-Iniguez, Carlos and Lahey, Benjamin B and Bettencourt, Lu{\'\i}s MA and Berman, Marc G},
+  journal={Proceedings of the National Academy of Sciences of the United States of America},
+  volume={119},
+  number={2},
+  pages={1--2},
+  year={2022},
+  publisher={National Academy of Sciences}
+}
+
+@article{chen2025changing,
+  title={The Changing Character of Chinese Urbanization: 2000-2021},
+  author={Chen, Wei-Qiang and Song, Lulu and Lobo, Jose and Bettencourt, Luis},
+  year={2025}
+}
+
+@article{zund2021street,
+  title={Street View Imaging for Automated},
+  author={Z{\"u}nd, Daniel and Bettencourt, Lu{\'\i}s MA},
+  journal={Urban Informatics},
+  pages={29},
+  year={2021},
+  publisher={Springer Nature}
+}
+
+@article{gintautas2011correction,
+  title={Correction: Model Cortical Association Fields Account for the Time Course and Dependence on Target Complexity of Human Contour Perception},
+  author={Gintautas, Vadas and Ham, Michael I and Kunsberg, Benjamin and Barr, Shawn and Brumby, Steven P and Rasmussen, Craig and George, John S and Nemenman, Ilya and Bettencourt, Lu{\'\i}s MA and Kenyon, Garrett T},
+  journal={PLoS Computational Biology},
+  volume={7},
+  number={10},
+  pages={10--1371},
+  year={2011}
+}
+
+@article{xu2025using,
+  title={Using human mobility data to quantify experienced urban inequalities},
+  author={Xu, Fengli and Wang, Qi and Moro, Esteban and Chen, Lin and Salazar Miranda, Arianna and Gonz{\'a}lez, Marta C and Tizzoni, Michele and Song, Chaoming and Ratti, Carlo and Bettencourt, Luis and others},
+  journal={Nature Human Behaviour},
+  pages={1--11},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{zurek2000signal,
+  title={signal in the two (3 He and He) cases is pointed out and the resulting con},
+  author={ZUREK, WH and BETTENCOURT, LMA and DZIARMAGA, J},
+  journal={Acta Physica Polonica: B.},
+  volume={31},
+  number={12},
+  pages={2937},
+  year={2000},
+  publisher={Pa{\'n}stwowe Wydawn. Naukowe}
+}
+
+@article{bettencourt2025redefining,
+  title={Redefining Fitness: Evolution as a Dynamic Learning Process},
+  author={Bettencourt, Lu{\'\i}s and Grandison, Brandon J and Kemp, Jordan T},
+  journal={arXiv preprint arXiv:2503.09057},
+  year={2025}
+}
+
+@article{acevedo2021informando,
+  title={Informando lo informal: estrategias para generar informaci{\'o}n en asentamientos precarios},
+  author={Acevedo, Paloma and Vera, Felipe and Zambrano-Barrag{\'a}n, Patricio and Poskus, Mariana A and Alonso Pastor, Luis and Azcona, Ginnette and Babio, Guadalupe and Bazzucchi, Fabio and Bettencourt, Luis and Beukes, Anni and others},
+  year={2021},
+  publisher={< bound method Organization. get\_name\_with\_acronym of< Organization: Inter~…}
+}
+
+@inproceedings{bettencourt2001transitions,
+  title={TRANSITIONS IN 3D O (N) MODELS},
+  author={BETTENCOURT, LU{\'I}S MA},
+  booktitle={Topology of Strongly Correlated Systems: Proceedings of the XVIII Lisbon Autumn School, Lisbon, Portugal, 8-13 October, 2000},
+  pages={50},
+  year={2001},
+  organization={World Scientific}
+}
+
+@inproceedings{bettencourt2001theoretical,
+  title={Theoretical Division, T-8, MS B285, Los Alamos National Laboratory, Los Alamos, NM 87545, USA},
+  author={BETTENCOURT, LUIS MA},
+  booktitle={Strong and Electroweak Matter 2000: Proceedings of the SEWM2000 Meeting, Marseille, France, 13-17 June 2000},
+  pages={153},
+  year={2001},
+  organization={World Scientific}
+}
+
+@article{zurek2012two,
+  title={in the two (3He and He) cases is pointed out and the resulting conse-quences for the subsequent decay of vorticity are noted. The possibility of},
+  author={ZUREK, WH and BETTENCOURT, LMA and DZIARMAGA, J},
+  journal={Topological Defects and the Non-Equilibrium Dynamics of Symmetry Breaking Phase Transitions},
+  volume={549},
+  pages={77},
+  year={2012},
+  publisher={Springer Science \& Business Media}
+}
